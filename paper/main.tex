@@ -4,43 +4,42 @@
 \usepackage[IL2]{fontenc}
 \usepackage[czech]{babel}
 
-%% Sets page size and margins
 \usepackage[a4paper,top=3cm,bottom=4cm,left=3.5cm,right=3cm,marginparwidth=1.75cm]{geometry}
 
-%% Useful packages
 \usepackage{amsmath}
 \usepackage{cancel}
 \usepackage{graphicx}
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
 \hyphenation{JavaScript}
-\newcommand{\HRule}[1]{\rule{\linewidth}{#1}} 	% Horizontal rule
+\newcommand{\HRule}[1]{\rule{\linewidth}{#1}}           % Horizontal rule
 
-\makeatletter							% Title
-\def\printtitle{%						
+\makeatletter                                           % Title
+\def\printtitle{                       
     {\centering \@title\par}}
-\makeatother									
+\makeatother                                    
 
-\makeatletter							% Author
-\def\printauthor{%					
-    {\centering \large \@author}}				
-\makeatother							
+\makeatletter                                           % Author
+\def\printauthor{                   
+    {\centering \large \@author}}                
+\makeatother                            
 
-\title{	\normalsize\textsc {
-          \large{Vysoká škola ekonomická v Praze}\\[0.3cm]	
+\title{   \normalsize\textsc {
+          \large{Vysoká škola ekonomická v Praze}\\[0.3cm]    
           \large{Fakulta informatiky a statistiky}\\[0.3cm]
           \large{Katedra informačního a znalostního inženýrství}\\
         }
-\textsc{} 	% Subtitle
-		 	\\[7.0cm]								% 2cm spacing
-			%\HRule{0.5pt} \\						% Upper rule
-			\huge \textbf{Web Scraping s CasperJS}	% Title
-			\HRule{2pt} \\ [0.4cm]		% Lower rule + 0.5cm spacing
+\textsc{}   % Subtitle
+            \\[7.0cm]                                   % 2cm spacing
+            \huge \textbf{Web Scraping s CasperJS}      % Title
+            \HRule{2pt} \\ [0.4cm]                      % Lower rule + 0.5cm spacing
             \normalsize \textbf{4IZ470 Dolování znalostí z webu}
-		}
+        }
 
-\author{
-		Bc. Viet Bach Nguyen \hfill \today			% Todays date
+\author{\raggedright
+        Student: Bc. Viet Bach Nguyen \\
+        Vyučující: doc. Ing. Vojtěch Svátek, Dr. \\
+        Datum: \today
 }
 
 \setlength{\parskip}{5pt}
@@ -48,11 +47,11 @@
 
 \begin{document}
 
-\thispagestyle{empty}		% Remove page numbering on this page
+\thispagestyle{empty}           % Remove page numbering on this page
 
-\printtitle					% Print the title data as defined above
-  	\vfill
-\printauthor				% Print the author data as defined above
+\printtitle                     % Print the title data as defined above
+      \vfill
+\printauthor                    % Print the author data as defined above
 \newpage
 
 
