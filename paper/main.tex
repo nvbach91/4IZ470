@@ -1,0 +1,158 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[IL2]{fontenc}
+\usepackage[czech]{babel}
+
+%% Sets page size and margins
+\usepackage[a4paper,top=3cm,bottom=4cm,left=3.5cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+%% Useful packages
+\usepackage{amsmath}
+\usepackage{cancel}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\hyphenation{JavaScript}
+\newcommand{\HRule}[1]{\rule{\linewidth}{#1}} 	% Horizontal rule
+
+\makeatletter							% Title
+\def\printtitle{%						
+    {\centering \@title\par}}
+\makeatother									
+
+\makeatletter							% Author
+\def\printauthor{%					
+    {\centering \large \@author}}				
+\makeatother							
+
+\title{	\normalsize\textsc {
+          \large{Vysoká škola ekonomická v Praze}\\[0.3cm]	
+          \large{Fakulta informatiky a statistiky}\\[0.3cm]
+          \large{Katedra informačního a znalostního inženýrství}\\
+        }
+\textsc{} 	% Subtitle
+		 	\\[7.0cm]								% 2cm spacing
+			%\HRule{0.5pt} \\						% Upper rule
+			\huge \textbf{Web Scraping s CasperJS}	% Title
+			\HRule{2pt} \\ [0.4cm]		% Lower rule + 0.5cm spacing
+            \normalsize \textbf{4IZ470 Dolování znalostí z webu}
+		}
+
+\author{
+		Bc. Viet Bach Nguyen \hfill \today			% Todays date
+}
+
+\setlength{\parskip}{5pt}
+\renewcommand{\baselinestretch}{1.3}
+
+\begin{document}
+
+\thispagestyle{empty}		% Remove page numbering on this page
+
+\printtitle					% Print the title data as defined above
+  	\vfill
+\printauthor				% Print the author data as defined above
+\newpage
+
+
+\setcounter{page}{1}
+
+\section*{Abstrakt}
+Tato seminární práce pojednává o problematice extrahování dat z webu z praktického hlediska. Cílem této práce je implementace webového scraperu pro vybrané webové stránky. Práce je řešena v kontextu předmětu 4IZ470 Dolování znalostí z webu, mezi jehož zaměření patří WCM -- web content mining, tj. dolování, extrakce a integrace užitečných dat, informací a znalostí z webového prostředí. 
+
+Problém je vyřešen pomocí skriptovacího nástroje CasperJS pro automatizaci zobrazování obsahu webových stránek. Skriptování je zhotoveno v programovacím jazyce JavaScript. Nejdříve je provedena analýza vybraných webů. Výběr těchto webů podléhá míře potenciálu obsažených dat vyhovujících byznysovému záměru. Analýza zahrnuje zkoumání obsahu těchto webů i jejich struktury. Na základě analýzy je vytvořen algoritmus pro automatizovanou extrakci dat z těch to webů. 
+
+Výstupem této práce je hotový web scraper a dokumentace pro jeho konfiguraci a~spuštění. Tento scraper je schopný stahovat data z webu v požadovaném tabulkovém formátu, jehož sloupce lze nadefinovat v konfiguračním souboru. Pro ukázku výstupu je přiloženo několik datových souborů obsahující získané informace pomocí vytvořeného scraperu. Přínosem této práce je uskutečnění smysluplného experimentu nad studií o struktuře moderních webů a uvedení jednoho z mnoha možných, ne-li nejlepších, způsobů získávání dat z nich.
+
+\section*{Klíčová slova}
+Web Content Mining, Web Scraping, strukturovaná data, headless prohlížeče,\\ automatizace, skriptování, CasperJS, PhantomJS, JavaScript.
+
+\newpage
+
+ 
+\tableofcontents
+
+\newpage
+
+\section{Úvod}
+Hledání znalostí je v rámci každé vědecké disciplíny nesmírně důležitým východiskem pro nalezení nových objevů a invencí. Přítomnost celosvětové sítě WWW a internetu znamená pro svět významnou akceleraci rozvoje ve všech vědních oblastí za pomocí zpřístupnění enormního množství dat v otevřeném prostředí. Tato data v sobě skrývají mnoho byznysu relevantních znalostí, které se mohou velice dobře uplatnit v dnešním ekonomickém prostředí. Problém je ale jak tato data vůbec získat.
+
+\subsection{Představení problému}
+S uplynutím času je internet stále řízen čím dál tím masivnějším tokem informací, proto dnes již není tak jednoduché získávat data dle specifických potřeb. Dalším problémem je rychle rostoucí se trend rozvoje webových technologií. Tyto technologie jsou hlavním důvodem zralosti dnešního webového prostředí. To se projevuje zejména v~dynamických webových aplikací, které postupně a jistě nahrazují tradiční způsob prezentace informací na webu. 
+
+Pro získávání dat z moderních webů je vyžadováno použití moderních nástrojů, které jsou na příchod nových technologií připraveny. Jedním z přístupů v řešení problému dynamického webu z pohledu získávání webových dat je použití speciálního internetového prohlížeče, který je srovnatelný s klasickými prohlížeči a který se navíc dá zautomatizovat. Příkladem takového internetového prohlížeče je PhantomJS\cite{phantomjs} nebo HtmlUnit.
+
+\subsection{Přístup a cíle}
+Internet se dá považovat za distribuované úložiště potenciálních dat, která mají řadu možných způsobů využití. K tomu, aby data získaná z webu byla k něčemu užitečná, zaprvé musí být zajištěna a zadruhé musí být zpracovávána do akceptovatelné podoby ještě předtím, než budou použity v dalších fázích dolování znalostí jako např. předzpracování. 
+
+Nejideálnější případ extrakce je, když jsou všechna tato data dostupná na jednom místě v rámci určitého webu. Skutečnost je ale taková, že často jsou data zpřístupněna v rozpadlých dávkách podle toho, v jakém okamžiku jsou pro uživateli jak relevantní během jeho pobytu na daném webu. Zpravidla je žádoucí při extrakci mít všechna data sloučena do jednoho výsledného souboru, což usnadňuje jejich další zpracování. Proto je obvykle potřeba tato data postupně posbírat z více místech na webu v různých okamžicích prohlížení. Z tohoto důvodu je potřeba použít sofistikovanější algoritmus pro zachytávání těch to dat.
+
+Hlavní obsah této práce se zabývá implementací automatizace extrahování dat pomocí skriptovacího nástroje CasperJS\cite{casperjs}. Implementace bude probíhat v jazyce JavaScript s použitím programovacího rozhraní poskytovaného nástrojem CasperJS. Předmětem extrakce budou weby s informacemi o podnicích různých oborů. Extrahovaná data pak budou sloužit jako podklad pro vývoj určité aplikace, která je hlavním projektem vymýšlené firmy. Cílem práce je tedy vytvoření soubor webových scraperů pro automatické získávání těchto dat.
+
+\subsection{Postup práce}
+Práce je rozčleněna do následujících částí, přičemž jejich pořadí vychází ze skutečného postupování a krokování v práci.
+\begin{enumerate}
+\item Rozbor problematiky moderního webu
+\item Představení byznysového záměru
+\item Výběr vhodných webových stránek pro extrakci
+\item Obsahová analýza vybraných webů
+\item Analýza struktury vybraných webů
+\item Implementace scraperu
+\item Zápis dokumentace vytvořeného programu
+\item Zhodnocení výhod a nevýhod používaného nástroje
+\item Diskuze o legálnosti scrapingu
+\end{enumerate}
+
+\subsection{Používané nástroje a knihovny}
+Vybraným nástrojem pro implementaci web scraper v rámci této práce je CasperJS. Tento open-source nástroj slouží ke skriptování prohlížeče a jeho automatizaci. Primárně je CasperJS navržen pro použití s headless WebKit prohlížečem PhantomJS a~sekundárně s Gecko prohlížečem SlimerJS. Pro účely extrahování dat je dostačující použít jen PhantomJS. 
+
+V rámci CasperJS a PhantomJS lze psát běžné JavaScriptové kódy a proto je možné využít všech výhod a standardních funkcí tohoto programovacího jazyka. Pomocí těchto nástrojů je možné vytvořit plnohodnotný skript pro zachycení a simulaci případu užití běžného uživatele včetně jeho interakce s webovými stránkami včetně přesměrovávání a odesílání formulářů.
+
+Pro účely extrakce dat přímo z dokumentového objektu webové stránky je navíc použita knihovna jQuery. Tato knihovna slouží k usnadnění procházení jednotlivých HTML tagů a parsování čistá data z nich.
+
+
+\section{Moderní web}
+S rychlým růstem webových technologií roste i složitost získávání dat. Dnešním trendem ve vývoji webových aplikací spočívá v použití a integrace různých revolučních technologií jako AJAX, WebSocket, ServiceWorker, WebStorage a další k vytváření lepšího prostředí pro interakce s uživateli. Dále tyto weby bývají navrženy jako single-page aplikace, která zlepšuje uživatelskou přívětivost a výkonnost systému. To však ale znamená, že weby se stávají dynamickými, což zkomplikuje proces extrakce dat z nich.
+
+Všechny tyto technologie přináší na webové prostředí z hlediska systémového návrhu odlišný přístup v zobrazování informací uživatelům. Tento princip spočívá v dodatečném načítání informačních zdrojů až v okamžiku, kdy je to potřeba. Dále se jedná o~dynamičnosti webové stránky, kdy struktura dokumentového objektu webové stránky se mění v závislosti na interakce uživatele. To vše se děje asynchronně v pozadí aplikace. Tyto změny však uživatelé nepoznají, ale pro účely extrakce dat to znamená složité simulace těchto událostí, bez které není šance získat určená data.
+
+Jedním z možných řešení tohoto problému spočívá v skutečné simulaci uživatelských interakcí s webovou stránkou. K tomu je zřejmě potřeba webový prohlížeč, avšak takový, který se dá zautomatizovat.
+
+\section{Byznysový záměr}
+Tempor litora nisl in, litora ante quisque. Vitae conubia pede, mauris augue aliquam ultricies in nam, bibendum urna, eu nam magna commodo fringilla morbi. Nulla orci sed, tortor velit magna nec enim odio pellentesque, ultricies sodales platea vel varius lacus nullam, mi ante et, orci phasellus. Elementum cursus magna erat, lobortis adipiscing, ullamcorper malesuada, lorem wisi lorem vitae nunc, officia porta et pharetra gravida mauris. Nulla phasellus ipsum vitae, id turpis maecenas et, turpis fusce. Quis accumsan, leo arcu ut, id aenean morbi amet porttitor. Aliqua sit gravida pellentesque nunc tellus. Praesent nulla metus pharetra magna, ante erat nullam, ut eius vel at turpis nulla vel. Hymenaeos vivamus et, ornare at mauris. Etiam a hendrerit suscipit.
+
+\section{Výběr webových stránek}
+Vehicula rhoncus erat curabitur praesent volutpat, bibendum nec scelerisque eros tempus tristique justo, euismod eu in, nunc ac libero facilisis. Sed orci faucibus dui. Arcu eleifend turpis, a rerum praesent vulputate non sollicitudin, aliquet rutrum porta quis. A urna fusce lacus. Mi nam erat sem, morbi amet amet, placerat aliquam sociosqu justo lorem mi, in nisl consequat leo aliquam. Sem elit augue dictum et nunc, eget consequat suscipit ridiculus in, dolor pretium nostra sed.
+
+\section{Obsahová analýza vybraných stránek}
+A urna fusce lacus. Mi nam erat sem, morbi amet amet, placerat aliquam sociosqu justo lorem mi, in nisl consequat leo aliquam. Sem elit augue dictum et nunc, eget consequat suscipit ridiculus in, dolor pretium nostra sed.
+
+\section{Analýza struktury vybraných stránek}
+Nulla orci sed, tortor velit magna nec enim odio pellentesque, ultricies sodales platea vel varius lacus nullam, mi ante et, orci phasellus. Elementum cursus magna erat, lobortis adipiscing, ullamcorper malesuada, lorem wisi lorem vitae nunc, officia porta et pharetra gravida mauris. Nulla phasellus ipsum vitae, id turpis maecenas et, turpis fusce. Quis accumsan, leo arcu ut, id aenean morbi amet porttitor. Aliqua sit gravida pellentesque nunc tellus. Praesent nulla metus pharetra magna, ante erat nullam, ut eius vel at turpis nulla vel.
+
+\section{Implementace scraperu}
+Arcu eleifend turpis, a rerum praesent vulputate non sollicitudin, aliquet rutrum porta quis. A urna fusce lacus. Mi nam erat sem, morbi amet amet, placerat aliquam sociosqu justo lorem mi, in nisl consequat leo aliquam. Sem elit augue dictum et nunc, eget consequat suscipit ridiculus in, dolor pretium nostra sed.
+
+\section{Dokumentace programu}
+Elementum cursus magna erat, lobortis adipiscing, ullamcorper malesuada, lorem wisi lorem vitae nunc, officia porta et pharetra gravida mauris. Nulla phasellus ipsum vitae, id turpis maecenas et, turpis fusce. Quis accumsan, leo arcu ut, id aenean morbi amet porttitor. Aliqua sit gravida pellentesque nunc tellus. Praesent nulla metus pharetra magna, ante erat nullam, ut eius vel at turpis nulla vel. Hymenaeos vivamus et, ornare at mauris. Etiam a hendrerit suscipit.
+
+\section{Výhody a nevýhody nástroje}
+Quis accumsan, leo arcu ut, id aenean morbi amet porttitor. Aliqua sit gravida pellentesque nunc tellus. Praesent nulla metus pharetra magna, ante erat nullam, ut eius vel at turpis nulla vel. Hymenaeos vivamus et, ornare at mauris. Etiam a hendrerit suscipit.
+
+\section{Legálnost extrakce dat z webů}
+Erat elit vestibulum wisi sed ut, vel ac donec urna non, feugiat maecenas, quis metus condimentum, nunc porro felis wisi nam suspendisse. Vulputate sociosqu id fermentum elit, quam magna quaerat purus nec dolor, ipsum quam, lobortis mauris laudantium dolor bibendum, donec viverra dis sed.
+
+\newpage
+\bibliographystyle{acm}
+\bibliography{pmc}
+
+\section*{Přílohy}
+\begin{itemize}
+\item Projekt je publikován pod open-source licencí MIT na gitovém repozitáři \\ \url{https://github.com/nvbach91/4IZ470} 
+\item Zdrojový kód projektu se nachází ve složce \texttt{project}.
+\item Zdrojový kód textu práce se nachází ve složce \texttt{paper}.
+\end{itemize}
+
+
+\end{document}
