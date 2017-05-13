@@ -108,12 +108,12 @@
 \section*{Abstrakt}
 Tato seminární práce pojednává o~problematice extrahování dat z~webu z~praktického hlediska. Cílem této práce je implementace webového scraperu pro vybrané webové stránky. Práce je řešena v~kontextu předmětu 4IZ470 Dolování znalostí z~webu, mezi jehož zaměření patří WCM -- web content mining, tj. dolování, extrakce a~integrace užitečných dat, informací a~znalostí z~webového prostředí. 
 
-Problém je vyřešen pomocí skriptovacího nástroje CasperJS pro automatizaci zobrazování obsahu webových stránek. Skriptování je zhotoveno v~programovacích jazycích JavaScript a~Python. Nejdříve je provedena analýza vybraných webů. Výběr těchto webů podléhá míře potenciálu obsažených dat vyhovujících byznysovému záměru. Analýza zahrnuje zkoumání obsahu těchto webů i~jejich struktury. Na základě analýzy je vytvořen algoritmus pro automatizovanou extrakci dat z~těch to webů. 
+Problém je vyřešen pomocí skriptovacího nástroje CasperJS pro automatizaci zobrazování obsahu webových stránek. Skriptování je zhotoveno v~programovacích jazycích JavaScript a~Python. Nejdříve je provedena analýza vybraného webu. Výběr web podléhá míře potenciálu obsažených dat vyhovujících představenému byznysovému záměru. Analýza zahrnuje zkoumání obsahu těchto webů i~jejich struktury. Na základě analýzy je vytvořen algoritmus pro automatizovanou extrakci dat z~těch to webů. 
 
-Výstupem této práce je hotový web scraper a~dokumentace pro jeho konfiguraci a~spuštění. Tento scraper je schopný stahovat data z~webu v~požadovaném tabulkovém formátu, jehož sloupce lze nadefinovat v~konfiguračním souboru. Pro ukázku výstupu je přiloženo několik datových souborů obsahující získané informace pomocí vytvořeného scraperu. Přínosem této práce je uskutečnění smysluplného experimentu nad studií o~struktuře moderních webů a~uvedení jednoho z~mnoha možných, ne-li nejlepších, způsobů získávání dat z~nich.
+Výstupem této práce je hotový webobvý scraper a~dokumentace pro jeho konfiguraci a~spuštění. Tento scraper je schopný stahovat data z~webu v~požadovaném tabulkovém formátu. Pro ukázku výstupu je přiloženo několik datových souborů obsahující získané informace pomocí vytvořeného scraperu. Přínosem této práce je uskutečnění smysluplného experimentu nad studií o~struktuře moderních webů a~uvedení jednoho z~mnoha možných, ne-li nejlepších, způsobů získávání dat z~nich.
 
 \section*{Klíčová slova}
-Web Content Mining, Web Scraping, strukturovaná data, headless prohlížeče,\\ automatizace, skriptování, CasperJS, PhantomJS, JavaScript.
+Web Content Mining, Web Page Scraping, strukturovaná data, headless prohlížeče,\\ automatizace, skriptování, CasperJS, PhantomJS, JavaScript.
 
 \newpage
 
@@ -128,19 +128,19 @@ Hledání znalostí je v~rámci každé vědecké disciplíny nesmírně důlež
 \subsection{Představení problému}
 Internet stále řízen čím dál tím masivnějším tokem informací, proto dnes již není tak jednoduché získávat data dle specifických potřeb. Dalším problémem je rychle rostoucí se trend rozvoje webových technologií. Tyto technologie jsou hlavním důvodem zralosti dnešního webového prostředí. To se projevuje zejména v~dynamických webových aplikací, které postupně a~jistě nahrazují tradiční způsob prezentace informací na webu. 
 
-Pro získávání dat z~moderních webů je vyžadováno použití moderních nástrojů, které jsou na příchod nových technologií připraveny. Jedním z~přístupů v~řešení problému dynamického webu z~pohledu získávání webových dat je použití speciálního internetového prohlížeče, který je srovnatelný s~klasickými prohlížeči a~který se navíc dá zautomatizovat. Příkladem takového internetového prohlížeče je PhantomJS\cite{phantomjs} nebo HtmlUnit.
+Pro získávání dat z~moderních webů je vyžadováno použití moderních nástrojů, které jsou na příchod nových technologií připraveny. Jedním z~přístupů v~řešení problému dynamického webu z~pohledu získávání webových dat je použití speciálního internetového prohlížeče, který je srovnatelný s~klasickými prohlížeči a~který se navíc dá zautomatizovat. Příkladem takového internetového prohlížeče je PhantomJS \cite{phantomjs} nebo HtmlUnit.
 
 \subsection{Přístup a~cíle}
 Internet se dá považovat za distribuované úložiště potenciálních dat, která mají řadu možných způsobů využití. K~tomu, aby data získaná z~webu byla k~něčemu užitečná, zaprvé musí být zajištěna a~zadruhé musí být zpracovávána do akceptovatelné podoby ještě předtím, než budou použity v~dalších fázích dolování znalostí jako např. předzpracování. 
 
 Nejideálnější případ extrakce je, když jsou všechna tato data dostupná na jednom místě v~rámci určitého webu. Skutečnost je ale taková, že často jsou data zpřístupněna v~rozpadlých dávkách podle toho, v~jakém okamžiku jsou pro uživateli jak relevantní během jeho pobytu na daném webu. Zpravidla je žádoucí při extrakci mít všechna data sloučena do jednoho výsledného souboru, což usnadňuje jejich další zpracování. Proto je obvykle potřeba tato data postupně posbírat z~více místech na webu v~různých okamžicích prohlížení. Z~tohoto důvodu je potřeba použít sofistikovanější algoritmus pro zachytávání těch to dat.
 
-Hlavní obsah této práce se zabývá implementací automatizace extrahování dat pomocí skriptovacího nástroje CasperJS\cite{casperjs}. Implementace bude probíhat v~programovacím jazyce JavaScript s~použitím programovacího rozhraní poskytovaného nástrojem CasperJS. Předmětem extrakce budou weby s~informacemi o~podnicích různých oborů. Extrahovaná data pak budou sloužit jako podklad pro vývoj určité aplikace, která je hlavním projektem vymýšlené firmy. Cílem práce je tedy vytvoření soubor webových scraperů pro automatické získávání těchto dat.
+Tato práce se zabývá především implementací automatizace extrahování dat pomocí skriptovacího nástroje CasperJS \cite{casperjs}. Implementace bude probíhat hlavně pomocí programovacího jazyka JavaScript s~použitím programovacího rozhraní poskytovaného nástrojem CasperJS v~kombinaci se skriptovacím jazykem Python. Předmětem extrakce je webová stránka s~informacemi o~podnicích různých oborů. Extrahovaná data pak budou sloužit jako podklad pro vývoj určité aplikace, která je hlavním projektem vymýšlené firmy. Cílem práce je tedy vytvoření soubor webových scraperů pro automatické získávání těchto dat.
 
 \subsection{Postup práce}
 Práce je rozčleněna do následujících částí, přičemž jejich pořadí vychází ze skutečného postupování a~krokování v~práci.
 \begin{enumerate}
-\item Rozbor problematiky moderního webu
+\item Diskuze o~problematice moderního webu
 \item Představení byznysového záměru
 \item Výběr vhodné webové stránky
 \item Implementace scraperu
@@ -148,7 +148,9 @@ Práce je rozčleněna do následujících částí, přičemž jejich pořadí 
 \end{enumerate}
 
 \subsection{Používané nástroje a~knihovny}
-Vybraným nástrojem pro implementaci web scraper v~rámci této práce je CasperJS. Tento open-source nástroj slouží ke skriptování prohlížeče a~jeho automatizaci. Primárně je CasperJS navržen pro použití s~headless WebKit prohlížečem PhantomJS a~sekundárně s~Gecko prohlížečem SlimerJS. Pro účely extrahování dat je dostačující použít jen PhantomJS. 
+Vybraným nástrojem pro implementaci web scraper v~rámci této práce je CasperJS. Tento open-source nástroj slouží ke skriptování prohlížeče a~jeho automatizaci. Primárně je CasperJS navržen pro použití s~headless WebKit prohlížečem PhantomJS a~sekundárně s~Gecko prohlížečem SlimerJS. Pro účely extrahování dat je dostačující použít jen PhantomJS.
+
+O~nástrojích CasperJs a~PhantomJS jsem se dozvěděl v~průběhu studia vedlejší specializace 4KS Řízení kvality softwaru. PhantomJS byl v~rámci předmětu Automatizované funkční testování softwaru jedním z~hlavních prostředků pro automatizaci testování webových aplikací. Po přečtení jeho dokumentace jsem si uvědomil o~jeho možném uplatnění v~oblasti extrakce webových dat. Ukázalo se, že PhantomJS a~CasperJS jsou vhodnými nástroji i~pro extrakci dat, obzvlášť pokud jde o~stahování dat z~moderních dynamických webových stránek.
 
 V rámci CasperJS a~PhantomJS lze psát běžné JavaScriptové kódy a~proto je možné využít všech výhod a~standardních funkcí tohoto programovacího jazyka. Pomocí těchto nástrojů je možné vytvořit plnohodnotný skript pro zachycení a~simulaci případu užití běžného uživatele včetně jeho interakce s~webovými stránkami včetně přesměrovávání a~odesílání formulářů.
 
@@ -157,37 +159,38 @@ Pro účely extrakce dat přímo z~dokumentového objektu webové stránky je na
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Moderní web}
-Obsahem této kapitoly je diskuze o~problému moderního webu z~hlediska extrakce webových dat.
+Obsahem této kapitoly je diskuze o~problému moderního webu z~technického hlediska extrakce webových dat.
 
-S rychlým růstem webových technologií roste i~složitost získávání dat. Dnešním trendem ve vývoji webových aplikací spočívá v~použití a~integrace různých revolučních technologií jako AJAX, WebSocket, ServiceWorker, WebStorage a~další k~vytváření lepšího prostředí pro interakce s~uživateli. Dále tyto weby bývají navrženy jako single-page aplikace, která zlepšuje uživatelskou přívětivost a~výkonnost systému. To však ale znamená, že weby se stávají dynamickými, což zkomplikuje proces extrakce dat z~nich.
+S rychlým růstem webových technologií roste i~složitost získávání dat. Dnešním trendem ve vývoji webových aplikací spočívá v~použití a~integrace různých revolučních technologií jako AJAX, WebSocket, ServiceWorker, WebStorage a~dalších frontendových frameworků jako AnglularJS a~ReactJS k~vytváření lepšího prostředí pro interakce s~uživateli. Dále tyto weby bývají navrženy jako single-page aplikace, která zlepšuje uživatelskou přívětivost a~výkonnost systému. To však ale znamená, že weby se stávají dynamickými \cite{kelk}, což zkomplikuje proces extrakce dat z~nich.
 
-Všechny tyto technologie přináší na webové prostředí z~hlediska systémového návrhu odlišný přístup v~zobrazování informací uživatelům. Tento princip spočívá v~dodatečném načítání informačních zdrojů až v~okamžiku, kdy je to potřeba, např. pomocí stránkování. Dále se jedná o~dynamičnosti webové stránky, kdy struktura dokumentového objektu webové stránky se mění v~závislosti na interakce uživatele. To vše se děje asynchronně v~pozadí aplikace. Tyto změny však uživatelé nepoznají, ale pro účely extrakce dat to znamená složité simulace těchto událostí, bez které není šance získat určená data. 
+Všechny tyto technologie přináší na webové prostředí z~hlediska systémového návrhu odlišný přístup v~zobrazování informací uživatelům. Tento princip spočívá v~dodatečném načítání informačních zdrojů až v~okamžiku, kdy je to potřeba, např. pomocí stránkování. Dále se jedná o~dynamičnosti webové stránky, kdy struktura dokumentového objektu webové stránky se mění v~závislosti na interakce uživatele. To vše se děje asynchronně v~pozadí aplikace. Tyto změny však uživatelé nepoznají, ale pro účely extrakce dat to znamená složité simulace těchto událostí, bez které není šance získat požadovaná data. 
 
-Dalším problémem je bezpečnost webů. Bezpečnost vychází z~potřeby ochrany webu před útokem a~spamováním. Bezpečnostní prvky jsou překážkou pro automatizované prohlížení webů, protože to může být vyhodnoceno jako spamování, jelikož aktivity robotů jsou nežádoucí a~zatěžují výkon serveru. Někteří provozovatelé mají své weby navržené tak, aby omezili chod automatických robotů na jejich stránky, z~důvodu zajištění rychlosti a~zamezení úniku dat. Příkladem takové ochrany je bezplatná služba Google reCAPTCHA, který slouží jako brána pro detekce robotu vs. člověka na základě rozpoznávání znaků a~objektů na obrázku, což je pro člověka snadné, ale pro počítače velmi těžké.
+Dalším problémem je bezpečnost webů. Bezpečnost vychází z~potřeby ochrany webu před útokem a~spamováním. Bezpečnostní prvky jsou překážkou pro automatizované prohlížení webů, protože to může být vyhodnoceno jako spamování, jelikož aktivity robotů jsou nežádoucí a~zatěžují výkon serveru. Někteří provozovatelé mají své weby navržené tak, aby omezili chod automatických robotů na jejich stránky, a~to nejen z~důvodu zajištění rychlosti systému a~zamezení úniku dat. Příkladem takové ochrany je bezplatná služba Google reCAPTCHA, který slouží jako brána pro detekce robotu vs. člověka na základě rozpoznávání znaků a~objektů na obrázku, což je pro člověka snadné, ale pro počítače velmi těžké.
 
 Jedním z~možných řešení zmíněných problémů (kromě ochrany reCAPTCHA) spočívá v~skutečné simulaci uživatelských interakcí s~webovou stránkou. K~tomu je zřejmě potřeba webový prohlížeč, avšak takový, který se dá zautomatizovat.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Popis nástroje CasperJS}
-Jak už bylo zmíněno, CasperJS představuje systém pro skriptování a~simulaci headless webového prohlížeče PhantomJS. To znamená, že pomocí tohoto prohlížeče lze automatizovaně navštěvovat webové stránky a~extrahovat data ze stažených zdrojů. Ve skriptu pro CasperJS lze definovat logiku pro interakci s~webem a~extrakci dat. Kromě základních interakcí s~webovou stránkou jako klikání a~simulace klávesových vstupů je možné předat funkci pro extrakci do konzole prohlížeče pomocí funkce \texttt{evaluate}, která vrátí výstup provedeného předaného kódu.
+Jak už bylo zmíněno, CasperJS představuje systém pro skriptování a~simulaci headless webového prohlížeče PhantomJS. To znamená, že pomocí tohoto prohlížeče lze automatizovaně navštěvovat webové stránky a~extrahovat data ze stažených zdrojů. Ve skriptu pro CasperJS lze definovat logiku pro interakci s~webem a~extrakci dat. Kromě základních interakcí s~webovou stránkou jako klikání a~simulace klávesových vstupů je možné předat funkci pro extrakci do konzole prohlížeče pomocí funkce \texttt{evaluate}, která vrátí výstup předaného kódu \cite{hayton}.
 
-Výhoda použití CasperJS a~PhantomJS spočívá v~plnohodnotném renderování stránek včetně dynamicky generovaných prvků na stránce a~načítání asynchronních požadavků. PhantomJS zajišťuje přítomnost všech datových zdrojů tak, jako kdyby byla stránka navštívena normálním prohlížečem.
+Výhoda použití CasperJS a~PhantomJS spočívá v~plnohodnotném renderování stránek včetně dynamicky generovaných prvků na stránce a~načítání asynchronních požadavků. PhantomJS zajišťuje přítomnost všech datových zdrojů tak, jako kdyby byla stránka navštívena normálním prohlížečem. Další výhodou tohoto prohlížeče je, že nemá grafické rozhraní. Veškerá renderování se vykovávají v~paměti a~proto je výrazně rychlejší než normální prohlížeče s~grafickým rozhraním \cite{greco}. Díky tomu lze podstatně zrychlit proces procházení webovými stránkami a~soustředit se na samotná data, která jsou pro účely extrakce relevantní.
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Byznysový záměr}
-Cílem zamýšleného byznysu je vytvořit jednotnou platformu pro poskytování informací ohledně místních služeb. Jedná se o~mobilní vyhledávač a~aplikaci pro rezervaci služeb. Tento systém umožňuje vyhledávání, srovnávání a~rezervaci služeb nejen v~místě pobytu uživatele. 
+Cílem zamýšleného byznysu je vytvořit jednotnou platformu pro poskytování informací ohledně místních služeb všech druhů. Jedná se o~mobilní vyhledávač a~aplikaci pro rezervaci služeb. Tento systém umožňuje vyhledávání, srovnávání a~rezervaci služeb nabízených  nejen v~okolí pobytu uživatele. 
 
-Výhoda této aplikace je jednoduchá dostupnost užitečných informací o~podnicích, které nabízejí služby jako restaurace, péče o~tělo, fitness, zdraví apod. Aplikace také zahrnuje hodnocení jednotlivých služeb na základě uživatelského feedbacku. V~aplikaci lze zobrazovat nejbližší pobočky podle typů nabízených služeb, ceny, hodnocení aj. Základním případem užití je hledání nejbližších poboček na základě otevírací doby a~uživatelem specifikované služby včetně rezervace této služby. Aplikace navíc integruje atraktivní funkce jako mapové zobrazení lokací a~navigace.
+Výhoda této aplikace je jednoduchá dostupnost užitečných informací o~podnicích, které obchodují nebo nabízejí služby jako catering, péče o~tělo, fitness, zdraví apod. Tato aplikace také zahrnuje hodnocení jednotlivých služeb na základě uživatelského feedbacku. V~aplikaci lze zobrazovat nejbližší pobočky podle typů nabízených služeb, ceny, hodnocení a~dalších vlastností. Základním případem užití je hledání nejbližších poboček na základě otevírací doby a~uživatelem specifikované služby včetně rezervace této služby. Systém navíc integruje atraktivní funkce jako mapové zobrazení lokací a~navigace.
 
-Tato platforma pro vyhledávání služeb vyžaduje zapojení místních byznysů k~tomu, aby svá podnikání prohlásili za jejich vlastní a~začali spravovat své služby v~této aplikaci. Jenže tento proces je mnohdy složitý a~kvůli tomu není velká motivace pro vlastníky firem. Proto je zpočátku akvizice zákazníků potřeba připravit data o~těchto místních podnicích, aby se ulehčila migrace jejích informací do aplikace. Je tedy potřeba najít způsob, jak přetransformovat informace na webových stránkách zákazníků do backendu aplikace.
+Tato platforma pro vyhledávání služeb nabízí místním byznysům možnost zapojení do programu k~tomu, aby svá podnikání prohlásili za jejich vlastní a~začali spravovat své služby v~této aplikaci. Jenže tento proces je mnohdy složitý a~kvůli tomu není velká motivace pro vlastníky firem. Proto je zpočátku akvizice zákazníků potřeba připravit data o~těchto místních podnicích, aby se ulehčila migrace jejích informací do aplikace. Je tedy potřeba najít způsob, jak přetransformovat informace na webových stránkách zákazníků do backendu aplikace.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Výběr cíle extrakce}
-Předmětem extrakce informací jsou zlaté stránky, protože obsahuje profily firem včetně užitečných informací o~nich. Každá země má své vlastní zlaté stránky, které obsahují informace jen o~místních podnicích. Pro účely této práce byly zvoleny švýcarské zlaté stránky na adrese \url{https://yellow.local.ch/en/} k~extrakci dat.
+Předmětem extrakce informací jsou zlaté stránky, protože obsahuje profily firem včetně užitečných informací o~nich. Každá země má své vlastní zlaté stránky, které obsahují informace především jen o~zdejších podnicích. Pro účely této práce byly zvoleny švýcarské zlaté stránky na adrese \url{https://yellow.local.ch/en} k~extrakci dat.
 
-Zlaté stránky je webový portál, který slouží jako jako komerční rejstřík společností. Hlavním obsahem toho to webu je katalog firem a~telefonní seznam. Tyto stránky poskytují službu vyhledávání firem podle klíčových slov, lokací a~zároveň umožňují filtraci a~seřazení výsledků. Kromě vyhledávání firem lze v~rámci zlatých stránkách také vyhledávat produkty, jídelní menu, články a~událostí. Zlaté stránky jsou komerční prostředí, proto je např. ovlivněno pořadí vyhledávacích výsledků.
+Zlaté stránky je webový portál, který slouží jako jako komerční rejstřík společností. Hlavním obsahem toho to webu je katalog firem a~telefonní seznam. Tyto stránky poskytují službu vyhledávání firem podle klíčových slov, lokací a~zároveň umožňují filtraci a~seřazení výsledků. Kromě vyhledávání firem lze v~rámci zlatých stránkách také vyhledávat produkty, jídelní menu, články a~událostí. Zlaté stránky jsou komerční prostředí, proto je např. ovlivněno pořadí vyhledávacích výsledků. Pro účely extrakce je žádoucí spíše se přiklánět k~úplnosti než k~přesnosti dat, protože v~první fázi projektu je snahou mít co nejvíce dat ke zpracování.
 
 \subsection{Obsah a~struktura webu}
 Základní vyhledávání spočívá v~upřesnění kategorie a~lokace služeb. Po zadání a~potvrzení klíčového slova služby a~uživatelem zvoleného místa se zobrazí výsledky vyhledávání. Např. jestli je potřeba najít kadeřnictví v~hlavním městě Curych, tak se zadá klíčové slovo \uv{hairdressers} a~vedle ještě název hlavního města, tj. \uv{Zurich}. Výsledky se zobrazují na samostatné stránce jako seznam s~informacemi o~jednotlivých firmách. V~případě většího množství nalezených výsledků je tento seznam rozdělen do více stránek, tj. stránkování.
@@ -195,7 +198,9 @@ Základní vyhledávání spočívá v~upřesnění kategorie a~lokace služeb. 
 Seznam výsledků obsahuje informace o~podniku jako název, hodnocení, typy služeb, adresa, telefonní číslo, URL adresa a~další meta informace jako doporučení, oblíbenost. Další podrobnosti o~firmě lze zobrazit kliknutím na tlačítko \uv{Information \& Details}, které uživatele přesměruje na další stránku s~detaily nalezeného výsledku. Zde je možné navíc zjistit otevírací dobu a~mapové souřadnice pobočky.
 
 \subsection{Strategie získávání dat}
-Pro zajištění nejrelevantnějších dat je ponecháno defaultní řazení výsledků, tj. podle relevance. Vyhledávání se provádí na základě seznamu klíčových slov služeb a~seznamu názvů měst. Města jsou seřazena vzestupně podle počtu obyvatelů. Pro každé město jsou vyhledávána všechna uvedená klíčová slova. Proto je počet vyhledávání roven počtu měst krát počet klíčových slov. Názvy měst a~klíčová slova jsou uvedeny v~následující tabulce. Názvů měst je 11 a~klíčových slov je 11. Počet kombinací je tedy $ 11 \times 11 = 121 $.
+Pro zajištění nejrelevantnějších dat je ponecháno defaultní řazení výsledků, tj. podle relevance. Vyhledávání se provádí na základě seznamu klíčových slov služeb a~seznamu názvů měst. Města jsou seřazena vzestupně podle počtu obyvatelů. Pro každé město jsou vyhledávána všechna uvedená klíčová slova. Proto je počet vyhledávání roven počtu měst krát počet klíčových slov. 
+
+Názvy měst a~klíčová slova jsou uvedeny v~tabulce \ref{cityandkeywords}. Pro demonstrační účely této práce bylo zvoleno 11 názvů měst a~11 klíčových slov. Počet kombinací je tedy součin počtu měst a~počtu klíčových slov. Tedy $ 11 \times 11 = 121 $. K~názvům měst a~klíčovým slovům lze samozřejmě přidávat o~další pojmy.
 
 \begin{table}[ht]
 \centering
@@ -215,11 +220,14 @@ Pro zajištění nejrelevantnějších dat je ponecháno defaultní řazení vý
 11 & Bellinzona                         & florist           
 \end{tabular}
 \caption{Názvy měst a~klíčová slova služeb}
+\label{cityandkeywords}
 \end{table}
 
 Scraper bude iterovat v~těchto kombinacích a~pro každou kombinaci bude jeden generovat soubor s~extrahovanými daty v~tabulkovém formátu. Počet záznamů v~každém souboru závisí na množství nalezených výsledků. Každý záznam bude obsahovat následující informace: název města, klíčové slovo, název podniku, adresa podniku, URL adresa webu, telefonní číslo, email, souřadnice, popis, a~otevírací dobu.
 
-Na švýcarských zlatých stránkách lze vyhledávat také pomocí URL odkazů. Např. \url{https://yellow.local.ch/en/q?what=restaurant&where=Zurich&rid=cv_i} přímo odkazuje na výsledky vyhledávání pro restaurace v~Curychu. Toto lze použít při iteraci kombinacemi klíčových slov a~názvů měst.
+Další ze zjištěných vlastností švýcarských zlatých stránek je, že je možné vyhledávat také pomocí URL odkazů. Např. adresa \url{https://yellow.local.ch/en/q/Zurich/restaurant.html?&rid=cv_i} přímo odkazuje na první stránku s~výsledky vyhledávání pro restaurace v~Curychu. Této vlastnosti lze využít při iteraci v~kombinacích klíčových slov a~názvů měst. To znamená, že již není potřeba projít klasickým procesem vyhledávání na domovské stránce tohoto webu, ale bohatě stačí zadávat patřičné odkazy.
+
+\newpage
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -238,15 +246,15 @@ casper.then(function () {   // creating a step in the queue
 casper.run();
 \end{lstlisting}
 
-Použití tohoto způsobu krokování je potřebné pro zajištění správné následnosti procházení webu, tj. zvládnutí asynchronních požadavků a~čekání na dynamicky generovaný obsah webové stránky.
+Použití tohoto způsobu krokování je potřebné pro zajištění správné následnosti procházení webu, tj. zvládnutí asynchronních požadavků a~čekání na dynamicky generovaný obsah webové stránky. Podstatnou roli zde hraje Promise framework, který je součástí nástroje CasperJS. Tento framework slouží k~řízení asynchronních příkazů v~rámci javascriptového programu \cite{sugrue}.
 
-Pro procházení stránkování byla použita technika \texttt{label} a~\texttt{goto}, která umožňuje opakování části kódu v~CasperJS. Pro samotnou extrakci dat je vytvořena jedna funkce, která parsuje obsah HTML dokumentu v~čistá data. Zde byla použita knihovna jQuery.
+Pro procházení stránkování byla použita technika \texttt{label} a~\texttt{goto}, která umožňuje opakovat určité části kódu v~CasperJS. Pro samotnou extrakci dat je vytvořena jedna funkce, která parsuje obsah HTML dokumentu v~čistá data. Zde byla použita knihovna jQuery.
 
-V rámci konfigurace nástroje CasperJS byla nastavena možnost ignorování stahování obrázkových dat pro zrychlení běhu scraperu tím, že se výrazně sníží množství přenesených dat v síti. Obrázky jsou jsou ignorovány také z důvodu, že jsou vzhledem k byznysovému záměru skoro nepoužitelné.
+Pro konfiguraci nástroje CasperJS v~rámci jeho konstruktoru byla nastavena možnost ignorování stahování obrázkových dat pro zrychlení běhu scraperu tím, že se výrazně sníží množství přenesených dat v~síti. Obrázky jsou ignorovány také z~důvodu, že jsou vzhledem k~byznysovému záměru skoro nepoužitelné.
 
 Implementovaný scraper zaznamenává průběh svého spuštění pomocí standardního textového logování do souboru. Logování je důležité pro detekci chyb a~pro sledování výkonu a~stavu běžícího program. Proces scraping mnohdy zabírá velké množství času v~závislosti na množství vstupu, tj. klíčová slova pro vyhledávání, proto je nezbytně nutné průběžně logovat každý důležitý krok programu.
 
-Program je složen ze dvou částí. První část se zabývá vytvořením instancí CasperJS pro vyhledávání pro jednu kombinaci klíčového slova a~názvu města. Tato část se zavolá příkazem \texttt{casperjs}, viz README. Druhá část je opakované zavolání první části programu v~iteraci po všech kombinacích klíčových slov a~názvů měst. Tato část je implementována v~programovacím jazyce Python. Obě části jsou parametrizovatelné a~parametry se zadávají do příkazového řádku při spuštění scraperu.
+Program je složen ze dvou částí. První část se zabývá vytvořením instancí CasperJS pro vyhledávání pro jednu kombinaci klíčového slova a~názvu města. Tato část se zavolá příkazem \texttt{casperjs}, viz README. Předmětem druhé části je opakované zavolání první části programu v~iteraci po všech kombinacích klíčových slov a~názvů měst. Tato druhá část je implementována v~programovacím jazyce Python, kde jde pouze o~to načítat vstupních hodnot pro předání do CasperJS. Obě implementované části jsou parametrizovatelné a~parametry se zadávají do příkazového řádku při spuštění scraperu.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

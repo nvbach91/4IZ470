@@ -1,0 +1,461 @@
+cityName	searchPhrase	resultNum	ypchsite	name	address1	address2	phone	website
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Rosalys-Restaurant-Bar-cwoYfOSqISahxaz64nCp6w?dwhat=bar&dwhere=zurich	Rosaly's Restaurant & Bar	Freieckgasse 7	 8001 Zürich	044 261 44 30	www.rosalys.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Caduffs-Wine-Loft-d3Gm9JrlAcJtJhzcWkHPkw?dwhat=bar&dwhere=zurich	Caduff's Wine Loft	Kanzleistrasse 126	 8004 Zürich	044 240 22 55	www.wineloft.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/dean-david-ZH-Bleicherweg-GmbH-cAkBYHpHyEhXDTtRO_i_Ow?dwhat=bar&dwhere=zurich	dean & david ZH Bleicherweg GmbH	Bleicherweg 19	 8002 Zürich	043 222 48 45	Go to website	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Simplon-Bar-xnVm4a6WztQaOzWxoPAv5g?dwhat=bar&dwhere=zurich	Simplon Bar	Schützengasse 16	 8001 Zürich	044 222 19 39	www.simplonbar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Ambrosi-8U_Ac0JIZIUc22VGR91nIQ?dwhat=bar&dwhere=zurich	Ambrosi	Im Viadukt 25, Viaduktstrasse 37	 8005 Zürich	043 960 36 06	www.ambrosi.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Restaurant/Restaurant-Mesob-s2DtnBPMcl75npBt6KUrMA?dwhat=bar&dwhere=zurich	Restaurant Mesob	Rotachstrasse 33	 8003 Zürich	043 960 02 51	www.mesob-restaurant.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Barfusser-Sushi-Bar-VyCQNaplVMrHYZLWd-FGKA?dwhat=bar&dwhere=zurich	Barfüsser Sushi & Bar	Spitalgasse 14	 8001 Zürich	044 251 40 64	www.barfuesser.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/BRG-Bistro-AG-Nua0CQFJJTO3Tw-T99T2Jg?dwhat=bar&dwhere=zurich	BRG Bistro AG	Zinnengasse 7	 8001 Zürich	044 221 94 87		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8051/Restaurant/Olympic-Lounge-9iq1k0iA4QVeUfUvqSlcQQ?dwhat=bar&dwhere=zurich	Olympic Lounge	Ueberlandstrasse 350	 8051 Zürich	076 449 74 74	www.olympiclounge.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Aubrey-SLTAJZ8tymFJ7MGGpxus1g?dwhat=bar&dwhere=zurich	Aubrey	Schiffbaustrasse 10	 8005 Zürich	044 440 00 20	www.aubrey.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Madonna-Ristorante-Bar-Club-VqpbvJWuV6Agx2zNC41x1w?dwhat=bar&dwhere=zurich	Madonna Ristorante Bar Club	Löwenstrasse 25	 8001 Zürich	044 210 06 10	www.madonna-zurich.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Restaurant-Terzo-r4KmAck-lVr-xefCeFZuYg?dwhat=bar&dwhere=zurich	Restaurant Terzo	Seefeldstrasse 214	 8008 Zürich	043 488 66 25	www.restaurant-terzo.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8047/Restaurant/Minimum-gxdGwhzND7jaHguVaRgVUQ?dwhat=bar&dwhere=zurich	Minimum	Flüelastrasse 29	 8047 Zürich	043 321 86 92	www.minimum.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Fork-Bottle-HSnQOLr2cBetMgaLuu5WFA?dwhat=bar&dwhere=zurich	Fork & Bottle	Allmendstrasse 20	 8002 Zürich	044 201 18 17	www.forkandbottle.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Aurora-Gastro-AG-PjmlS-FnhqgQU0p3UU8kfw?dwhat=bar&dwhere=zurich	Aurora Gastro AG	Bahnhofstrasse 61	 8001 Zürich	044 210 03 18		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Catering/LaZoupa-zLmvFLCJ4u45LKt5B0nQow?dwhat=bar&dwhere=zurich	LaZoupa	Torgasse 5	 8001 Zürich	043 542 46 86	www.lazoupa.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Restaurant/The-Raffles-Karaoke-Restaurant-Bar-40xY8aRYsRao7MVkAyRigw?dwhat=bar&dwhere=zurich	The Raffles Karaoke, Restaurant & Bar	Badenerstrasse 530	 8048 Zürich	044 401 33 50	yellow.local.ch/0444013350	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Hotel/Storchen-Zurich-zOVQdAlNAed86Yheh6wIAw?dwhat=bar&dwhere=zurich	Storchen Zürich	Weinplatz 2	 8001 Zürich	044 227 27 27	www.storchen.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Hotel/Sheraton-Zurich-Neues-Schloss-Hotel-ArabellaHotelbetriebeAG-JgdeMQfZUvQFPmyfCyUkiw?dwhat=bar&dwhere=zurich	Sheraton Zürich Neues Schloss Hotel, ArabellaHotelbetriebeAG	Stockerstrasse 17	 8002 Zürich	044 202 66 02	www.sheratonneuesschloss.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/Acapulco-OnMtzdM-N-FraNukGY1UNA?dwhat=bar&dwhere=zurich	Acapulco	Neugasse 56	 8005 Zürich	044 272 66 88	www.acapulco.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Regenbogen-Bar-Iawvt6K4UYoWzw1DQnWW1Q?dwhat=bar&dwhere=zurich	Regenbogen Bar	Rosengasse 6	 8001 Zürich	043 300 99 88	www.regenbogenbar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Blaue-Ente-N-cXLa7bitDFMl6bsrv6AQ?dwhat=bar&dwhere=zurich	Blaue Ente	Mühle Tiefenbrunnen, Seefeldstrasse 223	 8008 Zürich	044 388 68 40	www.blaue-ente.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Certo-JK_zVE1GSJnwnYEyoGNGaA?dwhat=bar&dwhere=zurich	Certo	Strassburgstrasse 5	 8004 Zürich	044 241 04 04	www.certo.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Nightclub/Imperium-8Y3gShJUzYtTzENz5fTYbA?dwhat=bar&dwhere=zurich	Imperium	Stüssihofstatt 17	 8001 Zürich	044 252 28 15	www.nightclub-imperium.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Brisket-Southern-BBQ-Bar-v1aEzMNgiK9poJM1AFMkMw?dwhat=bar&dwhere=zurich	Brisket Southern BBQ & Bar	Pfingstweidstrasse 6	 8005 Zürich	044 241 20 20	www.brisket.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8047/Bar/Easy-Bar-Ug0vTZFiLWg9UriOFYl-Xg?dwhat=bar&dwhere=zurich	Easy Bar	Freilagerstrasse 1	 8047 Zürich	043 211 00 44	www.easy-bar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Grill-Barbecue/Binz-Kunz-Oqdk8KMBl-YD-iVdLmdIwg?dwhat=bar&dwhere=zurich	Binz & Kunz	Räffelstrasse 17	 8045 Zürich	079 293 33 29	www.binzundkunz.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/George-Bar-Grill-E2FE14_t_A8FFW9_xUkXBQ?dwhat=bar&dwhere=zurich	George Bar & Grill	Gessnerallee 5	 8001 Zürich	044 444 50 60	www.george-grill.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Donde-Luis-AoOkoCRZ9SAeam0tWRrOgQ?dwhat=bar&dwhere=zurich	Donde Luis	Ankerstrasse 108	 8004 Zürich	043 811 46 46	www.dondeluis.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Rive-Gauche-jspjVLJOSl29aDi3VNmxVw?dwhat=bar&dwhere=zurich	Rive Gauche	Ecke Tal-/, Börsenstrasse	 8001 Zürich	044 220 50 60	www.agauche.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Casinos/Swiss-Casinos-Zurich-AG-vxuvLJYnKHcAkQ_NLSDNYg?dwhat=bar&dwhere=zurich	Swiss Casinos Zürich AG	Gessnerallee 3- 5	 8001 Zürich	043 330 30 30	www.swisscasinos.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Palavrion-Zurich-MyaaAwSC7nyrq-VaW6fniA?dwhat=bar&dwhere=zurich	Palavrion Zürich	Beethovenstrasse 32	 8002 Zürich	044 286 54 54	www.palavrion.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Aargauerhof-hQIx79L-7pG6gfrqJ637Gg?dwhat=bar&dwhere=zurich	Aargauerhof	Hohlstrasse 43	 8004 Zürich	044 242 46 16	restaurant-aargauerhof.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/ATELIER-BAR-CAQdmfSmTPcUjCPpVBO9wg?dwhat=bar&dwhere=zurich	ATELIER BAR	Talacker 16	 8001 Zürich	044 210 08 09	www.atelierbar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Restaurant-Bar-Nachtigall-pn3dy-iKpKXs0VPfpscTJw?dwhat=bar&dwhere=zurich	Restaurant, Bar Nachtigall	Bäckerstrasse 30	 8004 Zürich	043 541 83 74	www.zumheissenstein.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/WINGS-Airline-Bar-Lounge-dyw-NaaT6yGLMGcshpMz1A?dwhat=bar&dwhere=zurich	WINGS Airline Bar & Lounge	Limmatquai 54	 8001 Zürich	043 268 40 55	www.wings-lounge.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Kian--5O2nEiAxGiAVphjOH7ZSA?dwhat=bar&dwhere=zurich	Restaurant Kian	Stampfenbachstrasse 24	 8001 Zürich	044 577 41 00	www.kian.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Miracle-Bw8gpHQb7afDkNb3YW0mQA?dwhat=bar&dwhere=zurich	Miracle	Fröhlichstrasse 37	 8008 Zürich	044 382 20 05		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/blindekuh-oVEjsPgiwXS-c2KqeO0FaA?dwhat=bar&dwhere=zurich	blindekuh	Mühlebachstrasse 148	 8008 Zürich	044 421 50 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Bar/Cafe-Bar-Porta-dOro-NvuirXcSEVmqLEzd1uO0PA?dwhat=bar&dwhere=zurich	Café-Bar Porta d'Oro	Franklinstrasse 6	 8050 Zürich	044 310 87 35	www.porta-doro-borsalino.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Mexican-cuisine/DESPERADO-Wiedikon-Jizz1NSptj7QQTgxf0qQdw?dwhat=bar&dwhere=zurich	DESPERADO Wiedikon	Birmensdorferstrasse 129	 8003 Zürich	044 451 60 60		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Hummer-Austernbar-W91yhXn3A7SsRr4_1MTqaA?dwhat=bar&dwhere=zurich	Hummer Austernbar	Bahnhofstrasse 87	 8001 Zürich	044 227 76 21	www.hummerbar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Toro-Bar-Ljf4h79bF0w712-1K1eOPQ?dwhat=bar&dwhere=zurich	Toro Bar	Schöneggstrasse 25	 8004 Zürich	044 291 52 55	www.torobar.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Predigerhof-zjN4TeuU78ZhkrLZgq5eBg?dwhat=bar&dwhere=zurich	Predigerhof	Mühlegasse 15	 8001 Zürich	044 251 29 85	www.predigerhof.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/Aya-WkziOj7W2t6mHC9G_GVRrA?dwhat=bar&dwhere=zurich	Aya	Hardstrasse 260	 8005 Zürich	044 271 80 08	www.aya-bar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Kantorei-sl3WAKssnNCNWVNclYLybA?dwhat=bar&dwhere=zurich	Kantorei	Spiegelgasse 33 /Eingang Neumarkt 2	 8001 Zürich	044 252 27 27		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Talacker-YwIM07BpSnFvxETEh7dO4A?dwhat=bar&dwhere=zurich	Talacker	Talacker 41	 8001 Zürich	044 211 20 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Almodobar-AG-S2Rp5OwFOy14b-Uj0tw-4Q?dwhat=bar&dwhere=zurich	Almodòbar AG	Bleicherweg 68	 8002 Zürich	043 844 44 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Six-Bar-sRDqRTXG3B12iLDw-Gef7g?dwhat=bar&dwhere=zurich	Six-Bar	Rosengasse 6	 8001 Zürich	043 300 99 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Bar/Urbano-Bar-Uxja1-gzVGv6JzkfL7KZnQ?dwhat=bar&dwhere=zurich	Urbano Bar	Kalandergasse 1	 8045 Zürich	044 554 00 00	www.fourpointszurich.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Bar/max-restaurant-bar-lounge-epnuPzKN1t4pjewODAc3DA?dwhat=bar&dwhere=zurich	max - restaurant, bar & lounge	Max-Bill-Platz 19	 8050 Zürich	044 564 03 03		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Indian-cuisine/Tamarind-hill-Indian-restaurant-AvECYtfId8uBrYLzrDJEEA?dwhat=bar&dwhere=zurich	Tamarind hill Indian restaurant	Schaffhauserstrasse 306	 8050 Zürich	043 535 25 95		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Trubli-Bar-Restaurant-QnB4rzK8OhgiWEm9EEWJCw?dwhat=bar&dwhere=zurich	Trübli Bar Restaurant	Zeughausstrasse 67	 8004 Zürich	043 317 15 55		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Forum-DaMAe8PHAMy3Bmwjs-CArQ?dwhat=bar&dwhere=zurich	Forum	Badenerstrasse 120	 8004 Zürich	043 243 88 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Aperitivo-Don-Leone-p76wU64KGjahBi5Q_XFRPg?dwhat=bar&dwhere=zurich	Aperitivo Don Leone	Bäckerstrasse 36	 8004 Zürich	044 240 06 26		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/James-Joyce-xRV-YXmIRa13Nwd87zVPTg?dwhat=bar&dwhere=zurich	James Joyce	Pelikanstrasse 8	 8001 Zürich	044 221 18 28		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Cabaret/Bar-Red-Lips-GmbH-VcpdXiV4IqQ86IRDsNKozA?dwhat=bar&dwhere=zurich	Bar Red Lips GmbH	Hohlstrasse 47	 8004 Zürich	044 241 59 87	www.redlips.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Caffe-Handelshof-GmbH-UnMqeRQsskI5W3PAUVvtRA?dwhat=bar&dwhere=zurich	Caffé Handelshof GmbH	Uraniastrasse 35	 8001 Zürich	044 210 46 46	www.handelshof.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/tibits-z-vjQywwKMCQWSXk1rJhkg?dwhat=bar&dwhere=zurich	tibits	Seefeldstrasse 2	 8008 Zürich	044 260 32 22		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/Restaurant/Bohemia-fBI93egKuJ_plJhNSSc1nw?dwhat=bar&dwhere=zurich	Bohemia	Klosbachstrasse 2 /am Kreuzplatz	 8032 Zürich	044 383 70 60		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Latino-jQAOKqd38Ky2MZb2Gmbq6g?dwhat=bar&dwhere=zurich	Latino	Seegartenstrasse 14 /Ecke Dufourstr.	 8008 Zürich	044 388 37 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Werd-68k7WudNXDQuMMxTCBPUTw?dwhat=bar&dwhere=zurich	Werd	Werdstrasse 75	 8004 Zürich	044 412 25 67		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/Basilica-T_EawkYJEqjOgR1JumwRRQ?dwhat=bar&dwhere=zurich	Basilica	Heinrichstrasse 237	 8005 Zürich	043 366 93 83	www.basilica.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Bar/GAINSBOURG-mjskVeQsruz29R02aVBaGg?dwhat=bar&dwhere=zurich	GAINSBOURG	Kreuzstrasse 26	 8008 Zürich	043 558 49 49		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Kunsthaus-b7GaYw7klXkkQhpp0HCy7A?dwhat=bar&dwhere=zurich	Restaurant Kunsthaus	Heimplatz 1	 8001 Zürich	044 251 53 53		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Shisha/LEEWARD-SHISHA-BAR-PSCBt2BBuwyzBF8geFPgtQ?dwhat=bar&dwhere=zurich	LEEWARD SHISHA BAR	Langstrasse 65	 8004 Zürich	079 173 71 49	www.leewardshishabar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/El-Lokal-m_0QKDs14sSDGdonrSj9xQ?dwhat=bar&dwhere=zurich	El Lokal	Gessnerallee 11	 8001 Zürich	043 344 87 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Hotel-Central-Plaza-Owepu5ByxfqBPhGvz2MUbw?dwhat=bar&dwhere=zurich	Hotel Central Plaza	Hotel Central Plaza, Central 1	 8001 Zürich	044 256 56 56	www.central.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/LaSalle-dIOpiYej-vb2ee4oZ9A9kg?dwhat=bar&dwhere=zurich	LaSalle	im Schiffbau, Schiffbaustrasse 4	 8005 Zürich	044 258 70 71		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Safari-Bar-wFJgnSSK_mdXORsSuFU4Ow?dwhat=bar&dwhere=zurich	Safari Bar	Zähringerstrasse 29	 8001 Zürich	044 262 12 40		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Magnusbar-1G2Xd5lGAf-5x9en_UfApQ?dwhat=bar&dwhere=zurich	Magnusbar	Magnusstrasse 29	 8004 Zürich	043 243 90 43	www.magnusclub.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Alexis-Winebar-rN1QNT96i4ohcyA7A_lY5w?dwhat=bar&dwhere=zurich	Restaurant Alexis & Winebar	Niederdorfstrasse 40	 8001 Zürich	044 252 37 88	www.alexis-cana.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/Riffraff-Bar-0mkYihKqd4jMD_iXcPakbQ?dwhat=bar&dwhere=zurich	Riffraff Bar	Neugasse 57	 8005 Zürich	044 444 22 02	www.riffraff.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Sportsbar-1904-U4XrTAC4LOZ7zUmJhTVfKw?dwhat=bar&dwhere=zurich	Sportsbar 1904	Seestrasse 27	 8002 Zürich	043 388 27 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Baltho-Kuche-Bar-pcXjdGN8ig56ULYyL021EQ?dwhat=bar&dwhere=zurich	Baltho Küche & Bar	Marktgasse 17	 8001 Zürich	044 266 10 14	www.balthokuechebar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Events/0815-lonh-3XCzgCii0hqIqORng?dwhat=bar&dwhere=zurich	0815	Lintheschergasse 23	 8001 Zürich	044 211 08 15		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Korner-Restaurant-Bar-zIPuWsejH-etpefS3WzZkQ?dwhat=bar&dwhere=zurich	Korner Restaurant & Bar	Gartenstrasse 10	 8002 Zürich	044 542 92 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Morgarten-Bar-Restaurant-BNg_icdbRPkv13LhwO_McQ?dwhat=bar&dwhere=zurich	Morgarten Bar Restaurant	Morgartenstrasse 26	 8004 Zürich	044 242 86 66		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Wine-wine-trade/Movenpick-Wein-Bar-7vJ4eid3UK3MYcPFVn3lLg?dwhat=bar&dwhere=zurich	Mövenpick Wein-Bar	Nüschelerstrasse 1	 8001 Zürich	044 211 91 39		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Razzia-5jqHzo7bq_K7HwlRXKRRiw?dwhat=bar&dwhere=zurich	Razzia	Seefeldstrasse 82	 8008 Zürich	044 296 70 70		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Bar/Steigenberger-Hotel-Bellerive-au-Lac-fCQ3-6VX931qbAJUufT49w?dwhat=bar&dwhere=zurich	Steigenberger Hotel Bellerive au Lac	Utoquai 47	 8008 Zürich	044 254 40 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Bar/Bistro-Gleis-9-yoLN0bLeXKyT27JPJmRfcw?dwhat=bar&dwhere=zurich	Bistro Gleis 9	Affolternstrasse 52	 8050 Zürich	043 288 94 44		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/Brasserie-O-WrpF74bGPnuuJM8t5ghytg?dwhat=bar&dwhere=zurich	Brasserie Ö	Schaffhauserstrasse 335	 8050 Zürich	043 300 65 65		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Bar/Cafe-Bar-Plusch-oYJPsoiS7qKguW670dR9Sw?dwhat=bar&dwhere=zurich	Café Bar Plüsch	Aemtlerstrasse 16	 8003 Zürich	043 810 16 26		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/GRAND-CAFE-LOCHERGUT-lSZqJGOSyZRAYPzkuq53CQ?dwhat=bar&dwhere=zurich	GRAND CAFÉ LOCHERGUT	Badenerstrasse 230	 8004 Zürich	044 212 13 14		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/GUSTAV-Restaurant-Bar-D4cIgyeEOeWrqowo2UZiIQ?dwhat=bar&dwhere=zurich	GUSTAV Restaurant & Bar	Gustav-Gull-Platz 5	 8004 Zürich	044 250 65 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Nagasui-AG-kiY78SwOqmqPLQlfgKAyMA?dwhat=bar&dwhere=zurich	Nagasui AG	Selnaustrasse 16	 8001 Zürich	044 288 38 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Aelpli-Bar-z21VDy5GbuPTC15fAbaC6A?dwhat=bar&dwhere=zurich	Aelpli Bar	Ankengasse 5	 8001 Zürich	079 693 01 73		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Bar/Bar-Lounge-42-mYoSNlOLmcgOfqd1_0nihw?dwhat=bar&dwhere=zurich	Bar & Lounge 42	Neumühlequai 42	 8006 Zürich	044 360 73 24		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Bar/Bar-Nocciolina-o79q4W-e4sa5UD1639okkQ?dwhat=bar&dwhere=zurich	Bar Nocciolina	Bleicherweg 18	 8002 Zürich	044 202 06 06		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Cafes/Cafe-Che-GmbH-hrH8DQIx03YZfmKKkmPtUA?dwhat=bar&dwhere=zurich	Cafe Che GmbH	Seefeldstrasse 19 Eingang Holbeinstrasse	 8008 Zürich	044 261 51 52		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Cafes/Cafe-Henrici-zl8klEdtjUgXxzoUmx7m1Q?dwhat=bar&dwhere=zurich	Café Henrici	Niederdorfstrasse 1	 8001 Zürich	044 251 54 54		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Wine-cellar/Carlton-JjQU56oUZQn3gA_IqEb1ug?dwhat=bar&dwhere=zurich	Carlton	Bahnhofstrasse 41	 8001 Zürich	044 227 19 19		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Central-Bar-Caffe-G0C8rQqaZNrVvlpXuBeIjA?dwhat=bar&dwhere=zurich	Central Bar Caffè	Ankerstrasse 65	 8004 Zürich	044 241 42 24		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8049/Restaurant/DESPERADO-Zurich-Hongg-hX9vivNkA8xk-XGXFz6ZiQ?dwhat=bar&dwhere=zurich	DESPERADO Zürich-Höngg	Limmattalstrasse 215	 8049 Zürich	044 341 70 40		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Frau-Gerolds-Garten-fNopuqCM3E7eQs1QoSjm6Q?dwhat=bar&dwhere=zurich	Frau Gerolds Garten	Geroldstrasse 23A	 8005 Zürich	078 971 67 64		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Bar/La-Stanza-p8hFH1OkeaPnCFm5HLK-zA?dwhat=bar&dwhere=zurich	La Stanza	Bleicherweg 10	 8002 Zürich	043 817 62 82		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Bar/Le-Muh-XfsPn6DqnaKbObS4cAgBog?dwhat=bar&dwhere=zurich	Le Muh	Schulstrasse 44	 8050 Zürich	044 317 33 91		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Loweneck-AG-Y0et3-E4fzbYbkVp0kyW3Q?dwhat=bar&dwhere=zurich	Löweneck AG	Löwenstrasse 34	 8001 Zürich	044 577 68 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Bar/ONYX-Bar-lrqoM27md0rJZo0BJvcJ0Q?dwhat=bar&dwhere=zurich	ONYX Bar	Dreikönigstrasse 25	 8002 Zürich	043 883 12 34		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Club/Plaza-Club-Bar-Q-vmVKRgDmJPutRD0VElFg?dwhat=bar&dwhere=zurich	Plaza Club & Bar	Badenerstrasse 109	 8004 Zürich	044 542 90 90		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Quartier-5-ZolGiJcaVYAdfhA-MW-CJw?dwhat=bar&dwhere=zurich	Quartier 5	Hardturmstrasse 126	 8005 Zürich	044 440 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Palette-9sdc7OmWEulS3rjm2JKwfg?dwhat=bar&dwhere=zurich	Restaurant Palette	Schützengasse 7	 8001 Zürich	044 200 95 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Restaurant/SALI-e-TABACCHI-YBcKS_B42PQCJmtWwmmLFw?dwhat=bar&dwhere=zurich	SALI e TABACCHI	Zentralstrasse 72	 8003 Zürich	044 463 79 79		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Si-o-No-HlgVa7CYjnwAh8Xj9ShJ0w?dwhat=bar&dwhere=zurich	Si o No	Ankerstrasse 6	 8004 Zürich	044 241 03 01		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bookstore/spheres-jwldRG9FOOuqVDDZqDAuBg?dwhat=bar&dwhere=zurich	sphères	Hardturmstrasse 66	 8005 Zürich	044 440 66 22		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/01-Bar-3zakBlBirEC84EFFkRrZsg?dwhat=bar&dwhere=zurich	01 Bar	Köngengasse 2	 8001 Zürich	043 268 00 66		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/AURA-Group-AG-ruS3buwBHFCWjdUcAQmgCg?dwhat=bar&dwhere=zurich	AURA Group AG	Bleicherweg 5	 8001 Zürich	044 448 11 44		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Babalu-_QKXmOwYJtZh8gAdBiQ1gg?dwhat=bar&dwhere=zurich	Babalu	Schmidgasse 6	 8001 Zürich	044 251 97 32		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8044/Bar/Bar-B21-gFDfPlxz0yVhX34QDKnuXw?dwhat=bar&dwhere=zurich	Bar B21	Sorell Hotel Zürichberg, Orellistrasse 21	 8044 Zürich	044 268 35 35		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Bar-Basso-i6OdEQxw4n3u2Cd9WKJZoQ?dwhat=bar&dwhere=zurich	Bar Basso	Sihlstrasse 59	 8001 Zürich	043 497 25 28		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Bar-Rossi-TeIGLURq0JNSiLbe_ctq6Q?dwhat=bar&dwhere=zurich	Bar Rossi	Sihlhallenstrasse 3	 8004 Zürich	043 243 80 25		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/BarMunster-XgTc-SuFym6jqgvXhEoXFg?dwhat=bar&dwhere=zurich	BarMünster	Münstergasse 30	 8001 Zürich	044 261 60 61		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Pizzeria/Belcafe-Pizza-und-Bar-aFbc4kma5oZp0eyxbOSAGQ?dwhat=bar&dwhere=zurich	Belcafé Pizza und Bar	Bellevueplatz	 8001 Zürich	044 251 98 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Bar/Berta-XxEJI5hlWcTNDLNvCRCKsg?dwhat=bar&dwhere=zurich	Berta	Bertastrasse 26	 8003 Zürich	044 461 50 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Blue-Cherry-yT2UTF7RweXBGF5kcVy8xg?dwhat=bar&dwhere=zurich	Blue Cherry	Zähringerstrasse 12	 8001 Zürich	044 262 66 55		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Florist/Blumen-und-Cafebar-Enzian-lukKwp0EoQhkZ6IzGd5yXA?dwhat=bar&dwhere=zurich	Blumen und Cafébar Enzian	Thurgauerstrasse 36	 8050 Zürich	043 811 48 61		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Cafe-Bar-Orion-Frx8oCIiR7GDglXvW_v0Ig?dwhat=bar&dwhere=zurich	Café Bar Orion	Sihlfeldstrasse 113	 8004 Zürich	044 242 86 70		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Cafes/Cafebar-Take-Away-ENZIAN-uSvo6yuMo1MoBRM-Xtoy0Q?dwhat=bar&dwhere=zurich	Cafébar Take Away ENZIAN	Binzmühlestrasse 41	 8050 Zürich	043 333 55 45		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Caffe-Al-Leone-m3v2lSMWPuzuAoHCwYpmjQ?dwhat=bar&dwhere=zurich	Caffé Al Leone	Bahnhofstrasse 32	 8001 Zürich	044 221 00 47		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Central-Bar-Nj00Jkn6QioXzsM3-MwQwA?dwhat=bar&dwhere=zurich	Central Bar	Hotel Central Placa, Central 1	 8001 Zürich	044 256 56 56		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Club/Club-Gutenberg-B0F60A5gPjUWikOZ5kjAlA?dwhat=bar&dwhere=zurich	Club Gutenberg	Gutenbergstrasse 1	 8002 Zürich	079 906 95 92		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Corazon-ZyiPj8jbuJvu8sGBHIkzbQ?dwhat=bar&dwhere=zurich	Corazon	Zähringerplatz 11	 8001 Zürich	044 261 09 59		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Cranberry-Z2iyTfTEzLqIJf5jy6Ismg?dwhat=bar&dwhere=zurich	Cranberry	Metzgergasse 3	 8001 Zürich	044 261 27 72		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Catering/Daniel-H-fine-food-and-catering-GmbH-b3Hoe3Ce7ojlwlaUtw27yQ?dwhat=bar&dwhere=zurich	Daniel H. fine food and catering GmbH	Müllerstrasse 51	 8004 Zürich	044 241 41 78		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/DEJAVU-Cafe-Bar-Lounge-gsaa_APsMAJzah5RTqONQw?dwhat=bar&dwhere=zurich	DEJAVU Café Bar Lounge	Ohmstrasse 14	 8050 Zürich	044 310 22 24		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Bar/DIE-BAR-im-Seefeld-BR_XxbjE5dDllix60mQ-yg?dwhat=bar&dwhere=zurich	DIE BAR im Seefeld	Sorell Hotel Seefeld, Seefeldstrasse 63	 8008 Zürich	044 387 41 41		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Dinghy-Bar-WGKP7ziwqxrZFA7f88fpXw?dwhat=bar&dwhere=zurich	Dinghy Bar	Brandschenkestrasse 5	 8001 Zürich	044 390 13 14		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Double-V-miu9GJjh8ynLXpQn1FnxTQ?dwhat=bar&dwhere=zurich	Double-V	Niederdorfstrasse 19	 8001 Zürich	044 251 41 44		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Ex-Bar-Z-DrDwVRQtZQp9h6S6frtQ?dwhat=bar&dwhere=zurich	Ex Bar	Müllerstrasse 63	 8004 Zürich	044 242 85 33		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Fambar-Bar-Lounge-Ec6bRXBL-yueCFb5GhyW_A?dwhat=bar&dwhere=zurich	Famba'r Bar Lounge	Militärstrasse 84	 8004 Zürich	044 241 15 15		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Gallery-Qa3nJPCQg2yJXf3V_F0uAg?dwhat=bar&dwhere=zurich	Gallery	Talstrasse 25	 8001 Zürich	043 500 00 25		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/Hard-One-G2SpRGeaty14EHrsPep5-A?dwhat=bar&dwhere=zurich	Hard One	Hardstrasse 260	 8005 Zürich	044 444 10 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Hiltl-XlOM3DSqSoeHWjGtRZozEw?dwhat=bar&dwhere=zurich	Hiltl	Sihlstrasse 28	 8001 Zürich	044 227 70 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Hotel-Restaurant-Helvetia-JX4YyHAitoLoxVD9x5Vquw?dwhat=bar&dwhere=zurich	Hotel Restaurant Helvetia	Stauffacherquai 1	 8004 Zürich	044 297 99 99		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Bar/Houdini-Bar-gIWhyWCgsIe2KLtiPTcsgg?dwhat=bar&dwhere=zurich	Houdini Bar	Badenerstrasse 173	 8003 Zürich	044 455 50 33		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/IQ-Bar-frn--ihPMStC-j9XWezyNA?dwhat=bar&dwhere=zurich	IQ Bar	Hardstrasse 316	 8005 Zürich	044 440 74 40		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/La-Ola-Bar-WqkFzXcjFo3EsjsA19A9dA?dwhat=bar&dwhere=zurich	La Ola Bar	Sihlfeldstrasse 85	 8004 Zürich	043 243 91 44		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Events/LABOR-BAR-mBhpMg32VF_41BLf2dlJmA?dwhat=bar&dwhere=zurich	LABOR-BAR	Schiffbaustrasse 3	 8005 Zürich	044 272 44 02		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Bar/Le-Calvados-Bar-6qIQM53u_-1w7Fk32MZ4ww?dwhat=bar&dwhere=zurich	Le Calvados Bar	Idaplatz 4	 8003 Zürich	043 960 08 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Le-Philosophe-a2bMOurXgLBpsrL-gFYIqg?dwhat=bar&dwhere=zurich	Le Philosophe	Nägelihof 3	 8001 Zürich	044 250 59 40		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8057/Karaoke/LOKAL-Bar-Karaoke-Discothek-6KL6EaKQOYBDN5zzgsZWEg?dwhat=bar&dwhere=zurich	LOKAL Bar Karaoke & Discothek	Wehntalerstrasse 121	 8057 Zürich	076 438 64 14		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Longstreet-vAtLFxA3iAQnYlRbBodcPA?dwhat=bar&dwhere=zurich	Longstreet	Langstrasse 92	 8004 Zürich	044 241 21 72		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Mars-Bar-Dre6NSilukcnUgcGkE1TFQ?dwhat=bar&dwhere=zurich	Mars Bar	Neufrankengasse 15	 8004 Zürich	043 322 03 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Mascotte-fTX2cuiq8Mf0GsGRRhgniQ?dwhat=bar&dwhere=zurich	Mascotte	Theaterstrasse 10	 8001 Zürich	044 260 15 80		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/Matahari-Bar-KY7HSvVJ7CO8IXeDC1g3eA?dwhat=bar&dwhere=zurich	Matahari Bar	Langstrasse 237	 8005 Zürich	043 205 22 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Bar/Memo-Can-GmbH-ybxEFdcbGeQISNUAqcb72g?dwhat=bar&dwhere=zurich	Memo-Can GmbH	Badenerstrasse 676	 8048 Zürich	044 431 35 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Bar/Meyers-Bar-BSlYNPHoD2EjnbbFynOJ9Q?dwhat=bar&dwhere=zurich	Meyer's Bar	Badenerstrasse 219	 8003 Zürich	044 462 51 51		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Lounge/MEYLENSTEIN-EVENTLOCATION-U546m4Fl4gJScg3kZS9L-g?dwhat=bar&dwhere=zurich	MEYLENSTEIN EVENTLOCATION	Bellerivestrasse 263	 8008 Zürich	043 888 11 33		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/Furniture-retail/My-Place-Design-Coffee-Shop-hSmcZUK6tQNHgYtuav2ykg?dwhat=bar&dwhere=zurich	My Place Design & Coffee Shop	Hottingerstrasse 4	 8032 Zürich	043 499 96 46		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Nachtflug-no-t4VUlMTUx21Z49roS3A?dwhat=bar&dwhere=zurich	Nachtflug	Stüssihofstatt 4	 8001 Zürich	044 261 99 66		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/News-Bar-8aGuo-5wf7rkYHkaJaIl4g?dwhat=bar&dwhere=zurich	News Bar	Bahnhofplatz 2	 8001 Zürich	044 221 38 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/Nietturm-Bar-ZIZ_bDmz5YeyOxR7BSMzfQ?dwhat=bar&dwhere=zurich	Nietturm Bar	Schiffbaustrasse 4	 8005 Zürich	044 258 70 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/Nuovo-VSCK0075sTjfKEyV1FgIGg?dwhat=bar&dwhere=zurich	Nuovo	Pfingstweidstrasse 100	 8005 Zürich	044 285 40 42		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Old-Fashion-Bar-AG-YAvfe2QyKRxHFksPygpqyg?dwhat=bar&dwhere=zurich	Old Fashion Bar AG	Kappelergasse 16	 8001 Zürich	044 225 18 86		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Old-House-Bar-je3j7-Kluj8ODlQBuIliNw?dwhat=bar&dwhere=zurich	Old House Bar	Mühlegasse 14	 8001 Zürich	044 262 01 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Petras-Tip-Top-Bar-5DfzfI3OUGzBz05d0uHOxA?dwhat=bar&dwhere=zurich	Petra's Tip-Top-Bar	Seilergraben 13	 8001 Zürich	044 251 78 20		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Piranha-qnun57omysw_xOzbUGqpQQ?dwhat=bar&dwhere=zurich	Piranha	Langstrasse 94	 8004 Zürich	043 317 91 81		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Restaurant-Bar-noon-cv9xfPxAnHuxGyeED9VCfA?dwhat=bar&dwhere=zurich	Restaurant Bar noon	Oberdorfstrasse 9	 8001 Zürich	043 343 96 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Restaurant-Kronenhalle-_lI_ax9pa696YJeeUvKIMg?dwhat=bar&dwhere=zurich	Restaurant Kronenhalle	Rämistrasse 4	 8001 Zürich	044 262 99 11		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8052/Pizzeria/Ristorante-Pizzeria-Shisha-Zizo-OPZRAt-7hTcoX9m5-WYNnA?dwhat=bar&dwhere=zurich	Ristorante Pizzeria Shisha Zizo	Schaffhauserstrasse 477	 8052 Zürich	044 309 12 60		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Rossli--Pu7Vd1y6ELvxrpDFKKvuA?dwhat=bar&dwhere=zurich	Rössli	Rössligasse 7	 8001 Zürich	044 256 70 52		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Materials-and-cloths/Sape-comme-jamais-KIG-PQByVFjqYK7gshooEEFuaA?dwhat=bar&dwhere=zurich	Sapé comme jamais KIG	Schwamendingenstrasse 66	 8050 Zürich	044 313 94 08		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Savoy-Bar-3kkYX7I2ttpotkFNx4ZZtg?dwhat=bar&dwhere=zurich	Savoy Bar	Poststrasse 12	 8001 Zürich	044 215 25 25		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Schweizerdegen-L0gC4FHtnkBCrLAlGIULbQ?dwhat=bar&dwhere=zurich	Schweizerdegen	Dienerstrasse 40	 8004 Zürich	044 242 48 68		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Schweizerhof-Bar-HK4AHxxudwXR43agoAPRUw?dwhat=bar&dwhere=zurich	Schweizerhof Bar	Bahnhofplatz 7	 8001 Zürich	044 218 88 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Splendid-Piano-Bar-tJbIQrQfccHyYspJNbCzrA?dwhat=bar&dwhere=zurich	Splendid Piano Bar	Rosengasse 5	 8001 Zürich	044 252 58 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Sport-Bar-Cafeteria-zrjGiyFkQaE3lS_ZSxt5cw?dwhat=bar&dwhere=zurich	Sport Bar Cafeteria	Kanzleistrasse 76	 8004 Zürich	043 317 91 09		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Kebab-Doner/Spuntino--nATy3Z3uJl_Zoek70nOwQ?dwhat=bar&dwhere=zurich	Spuntino	Bellerivestrasse 253	 8008 Zürich	043 499 80 80		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Bar/The-international-Beer-Bar-b8H1M8Lu4Kcn6PrR3sDKvw?dwhat=bar&dwhere=zurich	The international Beer Bar	Luisenstrasse 7	 8005 Zürich			
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Bar/Venus-Bar-Pqt7MmeEsyjQ3x70W92AwQ?dwhat=bar&dwhere=zurich	Venus Bar	Franklinstrasse 9	 8050 Zürich	044 312 74 70		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Widder-Bar-UZLpTT3HJxoyRpm1SU67UA?dwhat=bar&dwhere=zurich	Widder Bar	Widdergasse 6	 8001 Zürich	044 224 24 11		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar/Wuste-Dr59yDiQOFlL1cjzThoT5w?dwhat=bar&dwhere=zurich	Wüste	Oberdorfstrasse 7	 8001 Zürich	044 251 22 07		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Zebra-Bar-nRvbCJmA5kQct8nsKMKmSQ?dwhat=bar&dwhere=zurich	Zebra Bar	Stauffacherstrasse 147	 8004 Zürich	079 299 70 69		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar/Zucchero-P2jItKsOBgtxzuBRKdiUpA?dwhat=bar&dwhere=zurich	Zucchero	Brauerstrasse 30	 8004 Zürich	043 243 86 20		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8057/Restaurant/il-postino-Ristorante-Bar-zoRvQ7pP5gBoBoVMO9I_zg?dwhat=bar&dwhere=zurich	il postino Ristorante & Bar	Schaffhauserstrasse 188	 8057 Zürich	044 350 66 66	www.ilpostino.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8051/Telephone-installation/Bar-H-AG-W_dyBQf_IzCdZqTOhhQPRA?dwhat=bar&dwhere=zurich	Bär H. AG	Winterthurerstrasse 537	 8051 Zürich	044 322 23 23	www.baerelektro.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Collana-Bar-e-Caffe-_goZB0nLkK0act-IB5Qz5Q?dwhat=bar&dwhere=zurich	Collana Bar e Caffè	Theaterstrasse 9	 8001 Zürich	044 250 59 10	www.commercio.ch/collana	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Commercio-Bar-ueGQLQqfvqdhFZyYS9e6qA?dwhat=bar&dwhere=zurich	Commercio Bar	Mühlebachstrasse 2	 8008 Zürich	044 250 59 30	www.commercio.ch/commercio	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Workplace-safety-/Scharer-Kunz-AG-jZXVuEWLApR81MZcxhhAkw?dwhat=bar&dwhere=zurich	Schärer + Kunz AG	Hermetschloostrasse 73	 8048 Zürich	044 434 80 80	www.schaererkunz.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Restaurant/Osteria-Bar-Leonardo-EvKNlH8ictPCvm1xn6igYw?dwhat=bar&dwhere=zurich	Osteria & Bar Leonardo	Einkaufszentrum Sihlcity, Kalanderplatz 1	 8045 Zürich	044 432 24 04	www.osterialeonardo.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Cabaret/Haifisch-Bar-6CRgWEsbpGEHliyvfDPp7w?dwhat=bar&dwhere=zurich	Haifisch-Bar	Mühlegasse 3	 8001 Zürich	044 251 06 25	www.haifischbar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Restaurant-Pizzeria-Bar-Sauber-Gastro-GmbH-2dowgGgwiWkhhc_GGv6aBw?dwhat=bar&dwhere=zurich	Restaurant Pizzeria Bar Sauber Gastro GmbH	Klingenstrasse 34	 8005 Zürich	044 440 38 08	www.tomate.restaurant	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Takeout/Piadina-Bar-vlP5mNW6vZeXQlQsHAmcYg?dwhat=bar&dwhere=zurich	Piadina Bar	Niederdorfstrasse 2	 8001 Zürich	044 251 65 94		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Nebenan-all-natural-Take-Away-Bar-Restaurant--l-3cEK0Stin__ScWwGQTA?dwhat=bar&dwhere=zurich	Nebenan 'all natural' Take Away, Bar, Restaurant	Manessestrasse 172	 8045 Zürich	044 515 91 90		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Restaurant/Bistro-Bar-Silba-VtXSHonoPhKz9cmK5qVZFQ?dwhat=bar&dwhere=zurich	Bistro Bar Silba	Schaffhauserstrasse 29	 8006 Zürich	044 364 24 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Chez-Toi-Bar-a-Crepes-Take-Away-qjrR3OR9tAk7O-4ook1MGw?dwhat=bar&dwhere=zurich	Chez Toi - Bar à Crêpes & Take Away	Meinrad-Lienert-Strasse 1	 8003 Zürich	044 542 93 89		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Grabli-Bar-s4LpHeRC4g7CyeYO6nWZzA?dwhat=bar&dwhere=zurich	Gräbli-Bar	Gräbligasse 1	 8001 Zürich	044 251 95 95		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/Inter-Venus-Bar-4y-TGh-JcB0Sh2xyfB91FA?dwhat=bar&dwhere=zurich	Inter & Venus Bar	Franklinstrasse 9	 8050 Zürich	044 312 74 70		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Lucys-Bar-04M-dm7TFByxYED8oh0SUA?dwhat=bar&dwhere=zurich	Lucy's Bar	Brunngasse 13	 8001 Zürich	044 251 40 74		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Music-Bar-Zipi-ciMIH1lcn376Pm8U_jz1Jg?dwhat=bar&dwhere=zurich	Music Bar -Zipi	Agnesstrasse 25	 8004 Zürich	044 241 79 32		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Outback-Lodge-Australian-Bar-Food-House-CZQoc1uwG4r-RUKSvJcKkw?dwhat=bar&dwhere=zurich	Outback Lodge - Australian Bar & Food House	Stadelhoferstrasse 18	 8001 Zürich	044 252 15 75		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Restaurant/Play-Bar-szBnp6X6lSwrKZjOqcFWjQ?dwhat=bar&dwhere=zurich	Play Bar	Badenerstrasse 277	 8003 Zürich	044 451 11 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8047/Restaurant/Restaurant-Bar-Cafe-Ey-Hof-vJU4Ynylo36in_jnsAEHvQ?dwhat=bar&dwhere=zurich	Restaurant Bar Café Ey Hof	Triemlistrasse 183	 8047 Zürich	044 491 65 48		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Restaurant-Bar-Don-Quijote-RnQBsTIXo_RpNQHcyFefsw?dwhat=bar&dwhere=zurich	Restaurant Bar Don Quijote	Brauerstrasse 36	 8004 Zürich	043 317 18 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/Tres-Amigos-Mexican-Bar-und-Restaurant-T48mBS8QQoIQSk4yILMVWQ?dwhat=bar&dwhere=zurich	Tres Amigos Mexican Bar und Restaurant	Querstrasse 16	 8050 Zürich	044 311 82 52		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Zuri-Bar-3zaQTz_FN60NwlPI601XvA?dwhat=bar&dwhere=zurich	Züri-Bar	Niederdorfstrasse 24	 8001 Zürich	044 261 88 74		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Attorneys-at-law/Bar-Karrer-AG-UxPtkQ4h8dYzkOogVN3IXQ?dwhat=bar&dwhere=zurich	Bär & Karrer AG	Brandschenkestrasse 90	 8002 Zürich	058 261 50 00	www.baerkarrer.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Cinema/Riffraff-Kino-Bar-Bistro-vpcYjvTnd-JR7Uf4BmbI_Q?dwhat=bar&dwhere=zurich	Riffraff Kino/Bar/Bistro	Neugasse 57/63	 8005 Zürich	044 444 22 00	www.riffraff.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Masi-Wine-Bar-Restaurant-vgHGNt2_8JUJf0GQk8IkMA?dwhat=bar&dwhere=zurich	Masi Wine Bar & Restaurant	Seefeldstrasse 5	 8008 Zürich	044 252 52 12		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Ristorante-Bar-lUlivo-0J_MQmqoQeOLIiqGGQWE3A?dwhat=bar&dwhere=zurich	Ristorante Bar l'Ulivo	Zollikerstrasse 6	 8008 Zürich	044 381 14 46		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Schonau-Bar-Restaurant-o1IwZprMCdQQpokP647lhA?dwhat=bar&dwhere=zurich	Schönau Bar Restaurant	Hohlstrasse 78	 8004 Zürich	044 242 66 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8037/Cafe-Bar-Nordbrucke-MR8B573IhpYDZhdd5DrM9g?dwhat=bar&dwhere=zurich	Café Bar Nordbrücke	Dammstrasse 58	 8037 Zürich	044 271 01 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Liquid-Bar-xfX9KLfqOwtc5qZr0mncBg?dwhat=bar&dwhere=zurich	Liquid-Bar	Zwinglistrasse 12	 8004 Zürich	044 291 12 91		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Negishi-Sushi-Bar-qLtlyS91aJWSHWFZT_iF3Q?dwhat=bar&dwhere=zurich	Negishi Sushi Bar	Badenerstrasse 97	 8004 Zürich	043 317 17 70		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Ristorante-Bar-Dal-Nastro-405hUsfKFuSyPOiHotfahQ?dwhat=bar&dwhere=zurich	Ristorante Bar Dal Nastro	Sihlporte 3	 8001 Zürich	044 301 41 41		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Ristorante-Pizzeria-Bar-Azzurri-XQcc68qmFJkNVis_XzOFDg?dwhat=bar&dwhere=zurich	Ristorante Pizzeria Bar Azzurri	Förrlibuckstrasse 70	 8005 Zürich	044 272 80 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Stafa/8712/Cafes/Barista-Swiss-8h9rv8BFVJTT1o-u7Ny2lg?dwhat=bar&dwhere=zurich	Barista Swiss	Seestrasse 72	 8712 Stäfa	043 540 92 77	Go to website	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Thalwil/8800/Hotel/Hotel-SEDARTIS-hnbIIo9IPLSx_8OK8hWPsw?dwhat=bar&dwhere=zurich	Hotel SEDARTIS	Bahnhofstrasse 16	 8800 Thalwil	043 388 33 00	www.sedartis.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Dubendorf/8600/Bar/My-Senses-GmbH-zIJst6EM4sWNbjAFi0ZuXA?dwhat=bar&dwhere=zurich	My Senses GmbH	Bahnhofstrasse 32	 8600 Dübendorf	043 819 17 17	mysensesbar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8046/Restaurant/Treff-Restaurant-Bar-uhUFK0loY8ASCg7Ww3yFkg?dwhat=bar&dwhere=zurich	Treff Restaurant-Bar	In Böden 174	 8046 Zürich	044 371 94 87		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich-ETH-Zentrum/8092/Restaurant/KulturCafe-Bar-BQM-FifXpoaKDcZS65-umYtfnQ?dwhat=bar&dwhere=zurich	KulturCafé & Bar BQM	Leonhardstrasse 34	 8092 Zürich ETH-Zentrum	044 632 75 03		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich-ETH-Zentrum/8092/Federal/Cafe-Bar-HG-lyoAqPLsizLUtibuaNEfhg?dwhat=bar&dwhere=zurich	Cafe Bar HG	Rämistrasse 101	 8092 Zürich ETH-Zentrum	044 632 62 61		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Cafe-Bar--Zxnzf-9vOSTDVIdzPUAMA?dwhat=bar&dwhere=zurich	Café-Bar	Bahnhofstrasse 21	 8001 Zürich	044 224 46 16		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Cafe-Bar-BfZ2NOVBxayxBujDcZ2D_Q?dwhat=bar&dwhere=zurich	Café-Bar	Löwenstrasse 49	 8001 Zürich	044 211 96 12		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Andorra-Cafe-Bar-GmbH-l5Ie4qqOPZGWB-Ug-2fjeg?dwhat=bar&dwhere=zurich	Andorra Café Bar GmbH	Münstergasse 20	 8001 Zürich	044 252 65 70		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Wealth-management/Bank-Julius-Bar-Co-AG-JRXt9xavaibgmX0hL7TCXA?dwhat=bar&dwhere=zurich	Bank Julius Bär & Co. AG	Bahnhofstrasse 36	 8001 Zürich	058 888 11 11		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Bank-Julius-Bar-Co-AG-WDG-r9Ti5FmPJQ1ii497AA?dwhat=bar&dwhere=zurich	Bank Julius Bär & Co. AG	Brandschenkestrasse 40	 8002 Zürich	058 888 11 11		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Wealth-management/Bank-Julius-Bar-Co-AG-Q9I7Zzh1THIpC9-35B7s4g?dwhat=bar&dwhere=zurich	Bank Julius Bär & Co. AG	Hohlstrasse 602	 8004 Zürich	058 888 11 11		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bank-Julius-Bar-Co-AG-1ZHOktOwBBBAMCSZr_WIuA?dwhat=bar&dwhere=zurich	Bank Julius Bär & Co. AG	Morgartenstrasse 1	 8004 Zürich	058 888 11 11		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Butcher/Bar-Felix-NHtvkohCPO9RfOcHUTyIVQ?dwhat=bar&dwhere=zurich	Bär Felix	Rennweg 50	 8001 Zürich	044 211 40 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/Vet/Dr-med-vet-Bar-Marc-V3UJY_wJC0Xu9vMGTS-BrQ?dwhat=bar&dwhere=zurich	Dr. med. vet. Bär Marc	Streulistrasse 14	 8032 Zürich	044 777 27 72		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Hairdresser/Bar-Peter-qExFUPs_AEMcDSjE2QeMwA?dwhat=bar&dwhere=zurich	Bär Peter	Bolleystrasse 5	 8006 Zürich	044 251 92 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Bar-63-GmbH-auVJlp4bhGSHrjf9IdjUoQ?dwhat=bar&dwhere=zurich	Bar 63 GmbH	Rolandstrasse 19	 8004 Zürich	044 241 75 83		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Bar-Amazonia-AG-Wp2IUQtFqrHUTyq9-ESMWQ?dwhat=bar&dwhere=zurich	Bar Amazonia AG	Sihlhallenstrasse 11	 8004 Zürich	044 240 24 44		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Bar-Consulting-Thorig-BCT-AgJzCeZQPN10CA7eFvRG8Q?dwhat=bar&dwhere=zurich	Bar Consulting Thörig-BCT	Steinhausweg 1	 8006 Zürich	044 310 21 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar-Event-AG-HnxfYcXm7ypGE2pwQx-I5w?dwhat=bar&dwhere=zurich	Bar & Event AG	Neustadtgasse 6	 8001 Zürich	044 251 88 67		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Bar-Julius-Holding-AG-HpePOV6frw5Z45D0O-oPlg?dwhat=bar&dwhere=zurich	Bär Julius Holding AG	Bahnhofstrasse 36	 8001 Zürich	058 888 11 11		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8057/Kiosk/Bar-Kiosk-8057-sytbwXHeNgcudkh24vSA3g?dwhat=bar&dwhere=zurich	Bar Kiosk 8057	Schaffhauserstrasse 115	 8057 Zürich	044 362 15 33		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Restaurant/Bar-New-Karibik-2GewJ41P2k35g3pI6R6-nA?dwhat=bar&dwhere=zurich	Bar New Karibik	Aemtlerstrasse 106	 8003 Zürich	043 960 93 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8044/Cafe-Bar-Meierei-Luthi-Meier-xfIcOyCEyysXfi6RsoCKng?dwhat=bar&dwhere=zurich	Cafe Bar Meierei Lüthi-Meier	Spyristrasse 9	 8044 Zürich	044 363 10 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Cafes/Cafe-Bar-Mojo-uRaJBXeA0kMSlIyAwnbd2w?dwhat=bar&dwhere=zurich	Café Bar Mojo	Schaffhauserstrasse 361	 8050 Zürich	043 540 49 89		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Cafeteria-Bar-A-Graph-uHLb0JLUfhYgM8JWVlgcVw?dwhat=bar&dwhere=zurich	Cafeteria Bar-A-Graph	Badenerstrasse 90	 8004 Zürich	044 248 28 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Caviar-House-Prunier-Sushi-Bar-2nchEv9abSNClRTo_Zhg5Q?dwhat=bar&dwhere=zurich	Caviar House & Prunier Sushi Bar	c/o Globus Zürich Bellevue, Theaterstrasse 12	 8001 Zürich	058 578 67 34		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Catering-service/Churrasco-Steakhouse-Bar-ib6RKssr9YBBb_K5vcJ8kw?dwhat=bar&dwhere=zurich	Churrasco Steakhouse & Bar	Stampfenbachstrasse 6	 8001 Zürich	044 261 24 24		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Eldorado-Bar-qXB4tlNsui1AU6_KpttUgw?dwhat=bar&dwhere=zurich	Eldorado Bar	Limmatstrasse 109	 8005 Zürich	043 540 90 31		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Fassli-Bar-oCwLY7_OLBHbW1Izsjvj0A?dwhat=bar&dwhere=zurich	Fässli-Bar	Badenerstrasse 344	 8004 Zürich	044 400 10 39		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Glamour-Bar-CGyuF-AGwNZAmv7qSm7vrw?dwhat=bar&dwhere=zurich	Glamour Bar	Rotwandstrasse 66	 8004 Zürich	044 240 55 44		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Golden-Gate-Bar-Nagamutthu-IjO-BXi68Xh6MAX3OO8DjA?dwhat=bar&dwhere=zurich	Golden Gate Bar, Nagamutthu	Schöneggstrasse 15	 8004 Zürich	044 242 80 09		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Highlander-Club-Bar-GmbH-5U5r7_2_TGSYV4P9PEcfWQ?dwhat=bar&dwhere=zurich	Highlander Club-Bar GmbH	Meinrad-Lienert-Strasse 17	 8003 Zürich	043 960 05 01		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Cinema/Houdini-Kino-Bar-JngdvFThXsLWubiOIjC98w?dwhat=bar&dwhere=zurich	Houdini Kino/Bar	Badenerstrasse 173	 8003 Zürich	044 455 50 33		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Inferno-Bar-Lounge-Bv0DhB-CE9bR7rvZKam2UQ?dwhat=bar&dwhere=zurich	Inferno Bar Lounge	Konradstrasse 71	 8005 Zürich	078 971 71 71		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Julius-Bar-Holding-AG-tYoixeB0Y3FDqhiAmqZt7w?dwhat=bar&dwhere=zurich	Julius Bär Holding AG	Bahnhofstrasse 36	 8001 Zürich	058 888 11 11		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/La-Strega-Bar-OZoX1ikbsORaCHAKKqdGbw?dwhat=bar&dwhere=zurich	La Strega Bar	Nietengasse 9	 8004 Zürich	044 242 58 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8041/La-Strega-Bar-4ppMLAHEvFajS2woDZVtbA?dwhat=bar&dwhere=zurich	La Strega Bar	Leimbachstrasse 149	 8041 Zürich	043 243 19 62		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Laila-Shisha-Bar-M1PCF-grfq7m__aI5jIvNQ?dwhat=bar&dwhere=zurich	Laila Shisha Bar	Friesstrasse 16	 8050 Zürich	043 443 99 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Le-Raymond-Bar-R1gtxd2fzcsnKaj3SEOvdg?dwhat=bar&dwhere=zurich	Le Raymond Bar	Bleicherweg 8	 8001 Zürich	044 221 02 05		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Maximilian-Cafe-Bar-vjoi_D-3xRag2N57MWOkAA?dwhat=bar&dwhere=zurich	Maximilian Café & Bar	Weststrasse 112	 8003 Zürich	044 450 24 66		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant-equipment-rental/MIDWAY-BAR-QVD24Ut_RmZDrZn5LdI6vQ?dwhat=bar&dwhere=zurich	MIDWAY BAR	Zinistrasse 6	 8004 Zürich	044 291 68 63		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Moudis-cafe-bar-restaurant-ULLawFMPXyCfkJbJicO5Ww?dwhat=bar&dwhere=zurich	Moudi's cafe bar restaurant	Kronenstrasse 48	 8006 Zürich	043 810 01 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Murex-Bar-RjTzWeafxS6bqk5l4f574g?dwhat=bar&dwhere=zurich	Murex Bar	Schneggengasse 8	 8001 Zürich	044 252 27 37		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Music-Bar-Food-Ltd-liab-Co-eab5D0oyZFfYavVCP2z8hQ?dwhat=bar&dwhere=zurich	Music Bar Food Ltd liab Co	Schweizergasse 8	 8001 Zürich	043 344 80 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/N-68-Bar-Restaurant-_tM_QI0dpFjeGDc-SRer2g?dwhat=bar&dwhere=zurich	N-68 Bar-Restaurant	Niederdorfstrasse 68	 8001 Zürich	044 261 08 12		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Negishi-Sushi-Bar-uUf4Ll38wC3zD3A-POPBsg?dwhat=bar&dwhere=zurich	Negishi Sushi Bar	Nägelihof 1	 8001 Zürich	044 252 05 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Quippini-Cafe-Bar-GPcqfVXqr3yVpHI_bIchug?dwhat=bar&dwhere=zurich	Quippini Café-Bar	Josefstrasse 27	 8005 Zürich	044 271 04 24		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Restaurant-Swaad-Cafe-Bar--DoMqynoLX9cFoxSWHwvgQ?dwhat=bar&dwhere=zurich	Restaurant Swaad & Café / Bar	Zollikerstrasse 1	 8008 Zürich	043 317 18 28		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Ristorante-Golosone-Bar-Luther-GmbH-gZkhvX8KwqfbOz7VpIPvmQ?dwhat=bar&dwhere=zurich	Ristorante Golosone Bar Luther GmbH	Lutherstrasse 4	 8004 Zürich	044 212 40 06		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Roni-Bar-GmbH-Y-H5UOaJ57rSWrPipfkrSw?dwhat=bar&dwhere=zurich	Roni Bar GmbH	Albisriederstrasse 10	 8003 Zürich	044 240 06 03		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/STUDERS-Speisewirtschaft-Bar-9hb3X76cqwcJNjRfTHjo7g?dwhat=bar&dwhere=zurich	STUDER'S Speisewirtschaft & Bar	Hardstrasse 316	 8005 Zürich	044 420 04 20		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/The-Mixt-Bar-BiDSfB0snCFjbM922O3rbg?dwhat=bar&dwhere=zurich	The Mixt Bar	Müllerstrasse 55	 8004 Zürich	044 241 51 61		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Nail-cosmetics/The-Nail-Bar-hTGmdbi3w4Z1Z11XdXG2Ug?dwhat=bar&dwhere=zurich	The Nail Bar	Münstergasse 23	 8001 Zürich	044 261 03 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Vascos-Bar-hGpFjfj4qdifNKWeTT5ZDg?dwhat=bar&dwhere=zurich	Vasco's Bar	Bäckerstrasse 20	 8004 Zürich	044 241 51 71		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Architectural-firm/wild-bar-heule-Architekten-AG-vedGUYGGXAxoYzG49dNnCw?dwhat=bar&dwhere=zurich	wild bär heule Architekten AG	Baurstrasse 14	 8008 Zürich	044 386 68 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/World-Lounge-Cafe-Bar-SoUa0szgz3SZL7jigq8ZZg?dwhat=bar&dwhere=zurich	World Lounge Café & Bar	Sihlfeldstrasse 89	 8004 Zürich	044 291 68 25		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Zini-Bar-GmbH-pvEjFbjnitn35otUZ6g_2Q?dwhat=bar&dwhere=zurich	Zini Bar GmbH	Zinistrasse 7	 8004 Zürich	043 322 02 52		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Kloten/8302/Bar/Spuntino-Bar-GmbH-XarW-s1FoK3hwAbw1vpoOQ?dwhat=bar&dwhere=zurich	Spuntino Bar GmbH	GAC	 8302 Kloten	043 816 32 67		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Glattbrugg/8152/Restaurant/MOMENTS-Restaurant-Bar-5N1TEWWgWmK8qSsTZSSYKA?dwhat=bar&dwhere=zurich	MOMENTS Restaurant & Bar	Schaffhauserstrasse 101	 8152 Glattbrugg	044 808 50 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Heugumper-_7bXbVBKsmKOszhS7QPZfQ?dwhat=bar&dwhere=zurich	Heugümper	Waaggasse 4	 8001 Zürich	044 211 16 60	www.restaurantheuguemper.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Consulting/STRAIGHT-UP-Pc_2P2cKMlc6vKCnlwMNCQ?dwhat=bar&dwhere=zurich	STRAIGHT UP	Anwandstrasse 33	 8004 Zürich	044 241 94 21	www.straightup.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/TANT-PIS-DJO_mQlG3a61zwlXNyu4Qg?dwhat=bar&dwhere=zurich	TANT PIS	Konradstrasse 73	 8005 Zürich	044 271 12 41	www.tantpis.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/La-Contrada-iyBhMdjRd6jPrT7C3FWD2w?dwhat=bar&dwhere=zurich	La Contrada	Heinrichstrasse 83	 8005 Zürich	044 272 50 90		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/LUV-Drink-Dine-IZPRPUIJTnNrAsDbSW51VA?dwhat=bar&dwhere=zurich	LUV Drink & Dine	Münzplatz 3	 8001 Zürich	043 321 22 22		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Schlauch-bFjE5Pw4VU4hw1ImI36jmQ?dwhat=bar&dwhere=zurich	Schlauch	Obere Zäune 17 /Münstergasse 20	 8001 Zürich	044 251 23 04		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8038/Restaurant/Sasso-hl4gAnOE-CYOl9IAvEVZSA?dwhat=bar&dwhere=zurich	Sasso	Seestrasse 331	 8038 Zürich	043 500 33 70	www.restaurantsasso.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/BARADOX-rHMNSf83nrncw9VvRKcPhg?dwhat=bar&dwhere=zurich	BARADOX	Sihlstrasse 73	 8001 Zürich	044 221 06 26		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Le-Cactus-Q7KRrlvxliivOxZdrB3oFg?dwhat=bar&dwhere=zurich	Le Cactus	Kanonengasse 33	 8004 Zürich	044 242 77 84		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/les-halles-5y8Xh1IZJPIJSs9og6wSTg?dwhat=bar&dwhere=zurich	les halles	Pfingstweidstrasse 6	 8005 Zürich	044 273 11 25		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Masala-MSx_2Nd1QVINa-gf8vx-YA?dwhat=bar&dwhere=zurich	Masala	Stauffacherstrasse 27	 8004 Zürich	044 240 03 61		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Papa-Joes-EY4n01GZRAdhX8LkkBMeXw?dwhat=bar&dwhere=zurich	Papa Joe's	Am Hechtplatz, Schifflände 18	 8001 Zürich	044 269 88 88		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Piazza-OWjbydCNXagwj8ikDHALuw?dwhat=bar&dwhere=zurich	Piazza	Anwandstrasse 28	 8004 Zürich	044 558 95 29		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8038/Restaurant/Seerose-LcZWvs8UCbn1VveWY1jGpg?dwhat=bar&dwhere=zurich	Seerose	Seestrasse 493	 8038 Zürich	044 481 63 83		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Hotel/Ambassador-uI9kA8ZsNPEt5AgtQLq_QA?dwhat=bar&dwhere=zurich	Ambassador	Falkenstrasse 6	 8008 Zürich	044 258 98 98	www.ambassadorhotel.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/La-Piazzetta-ua7Z0vE9SdkgrEGY_oyncA?dwhat=bar&dwhere=zurich	La Piazzetta	Pelikanstrasse 37	 8001 Zürich	044 211 13 13		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Piazzetta-yJ4fdlCyWMhO4NM92iKplg?dwhat=bar&dwhere=zurich	Piazzetta	Pelikanstrasse 37	 8001 Zürich	044 211 13 13		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/SUPERZERO-JsOw-LT4kP0k8plOeca1pw?dwhat=bar&dwhere=zurich	SUPERZERO	Zähringerstrasse 39	 8001 Zürich	044 262 64 60		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-zum-Grunen-Glas-5ZtWvQUJfeYRyJIxI2e0Hg?dwhat=bar&dwhere=zurich	Restaurant zum Grünen Glas	Untere Zäune 15	 8001 Zürich	044 251 65 04	www.gruenesglas.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Restaurant/Casa-Ferlin-GXvPAor1ifNfpF0U5PTG0w?dwhat=bar&dwhere=zurich	Casa Ferlin	Stampfenbachstrasse 38	 8006 Zürich	044 362 35 09	www.casaferlin.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Don-Leone-vnVHV4n8grH1HnO_WI6Pow?dwhat=bar&dwhere=zurich	Don Leone	Bäckerstrasse 31	 8004 Zürich	044 241 01 01	www.donleone.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Hotel/Glockenhof-HBg9EuSq2GFomwFrbelXKw?dwhat=bar&dwhere=zurich	Glockenhof	Sihlstrasse 31	 8001 Zürich	044 225 91 91	www.glockenhof.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Hardhof-BnnhB4XK9attzxZ5hmKxjg?dwhat=bar&dwhere=zurich	Hardhof	Badenerstrasse 344	 8004 Zürich	044 492 07 11	www.restaurant-hardhof.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8038/Restaurant/MediterRana-BtYwpYmAYU4AUyUsLMilZg?dwhat=bar&dwhere=zurich	MediterRana	Albisstrasse 81	 8038 Zürich	044 480 09 08	www.mediterrana.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/The-Bite-9fdG2tbkHkMpDmGG5LlXuQ?dwhat=bar&dwhere=zurich	The Bite	Brauerstrasse 15	 8004 Zürich	044 242 30 00	www.thebite.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Restaurant/Pizza-Zuri-5A-dhdQR4Tw_1vw1eXv0iw?dwhat=bar&dwhere=zurich	Pizza Züri	Badenerstrasse 558	 8048 Zürich	044 492 82 82	www.pizzazueri.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Restaurant/Restaurant-Alten-Lowen-c7cMiFxw1uc9_3UnmxjYrw?dwhat=bar&dwhere=zurich	Restaurant Alten Löwen	Universitätstrasse 111	 8006 Zürich	043 343 11 69	www.altenloewen.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/LE-POISSON-aOdyUc-Oan8KiepwYQqhEw?dwhat=bar&dwhere=zurich	LE POISSON	Claridenstrasse 30	 8002 Zürich	044 286 22 22	www.lepoisson.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Restaurant-Biergarten-pNUqIQUVps00irfctOSHrQ?dwhat=bar&dwhere=zurich	Restaurant Biergarten	Hohlstrasse 25	 8004 Zürich	044 242 26 26	www.restaurant-biergarten-zuerich.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Schutzengasse-VYnvcXvBX3PTjpl-M3aZxQ?dwhat=bar&dwhere=zurich	Restaurant Schützengasse	Schützengasse 32	 8001 Zürich	044 500 10 30	www.schuetzengasse.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Zum-Goldenen-Fass-udjwEo6jgz9wKzyZDSS-9g?dwhat=bar&dwhere=zurich	Zum Goldenen Fass	Zwinglistrasse 7	 8004 Zürich	044 242 47 66	www.zumgoldenenfass.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/Theater-11-XK-Ds79NnPA0M_wX63tenw?dwhat=bar&dwhere=zurich	Theater 11	Thurgauerstrasse 7	 8050 Zürich	044 318 62 60	www.theater11.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Egg-b-Zurich/8132/Glazier/Bar-Rene-SOS-Schreiner-Service-0gPlfskWq07jFUu0_KOfsA?dwhat=bar&dwhere=zurich	Bär René SOS Schreiner Service	Gewerbestrasse 14	 8132 Egg b. Zürich	044 822 44 74	www.sos-24.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Billiards/Billard-Center-Zypresse-AQx74CCgbr84eIptKR90Bw?dwhat=bar&dwhere=zurich	Billard-Center Zypresse	Badenerstrasse 294	 8004 Zürich	044 241 68 90	www.billiards.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Restaurant/Chetis-More-than-curry-cEnIOSYJUmdMW1pw7H5hyQ?dwhat=bar&dwhere=zurich	Cheti's - More than curry	Rigiplatz 1	 8006 Zürich	044 370 23 23	www.chetis.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Commihalle-cSfn_ZAcycAebg_c6m4yLg?dwhat=bar&dwhere=zurich	Commihalle	Stampfenbachstrasse 8	 8001 Zürich	044 250 59 60	www.commercio.ch/commihalle	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Gold-and-silver/Galerie-Inauen-am-Hechtplatz-cuiVvA17HiEZqoGNFUd-bw?dwhat=bar&dwhere=zurich	Galerie Inauen am Hechtplatz	Schifflände 12	 8001 Zürich	044 252 56 97	www.galerieinauen.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8057/Floor-sealants/Keller-Frank-Beat-EzmxLsERJcAShugqRCpjsg?dwhat=bar&dwhere=zurich	Keller Frank Beat	Schaffhauserstrasse 122	 8057 Zürich	044 450 84 84	www.bodenschleifmaschinen.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Childrens-fashion/Lottis-Welt-Kinder-und-Stoffladen-VvGZjpQ5phsyUCyNKPJb-g?dwhat=bar&dwhere=zurich	Lotti's Welt - Kinder- und Stoffladen	Waffenplatzstrasse 49	 8002 Zürich	043 344 51 71	www.lottiswelt.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Mere-Catherine-nMluoL5Z7jnTIq4Tjp_RgA?dwhat=bar&dwhere=zurich	Mère Catherine	Nägelihof 3	 8001 Zürich	044 250 59 40	www.commercio.ch/mere-catherine	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8038/Hairdresser/Nicoles-Hairstyle-Flbq3M8sifdRERT4Kc_JXA?dwhat=bar&dwhere=zurich	Nicoles Hairstyle	Seestrasse 297	 8038 Zürich	044 481 10 11	www.nicoleshairstyle.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Restaurant/Restaurant-Buckhuser-zTBLSFuEzZl22mACtKzHFw?dwhat=bar&dwhere=zurich	Restaurant Buckhuser	Buckhauserstrasse 36	 8048 Zürich	058 204 87 87	www.buckhuser.ch/de	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Hotel/Sheraton-Zurich-Hotel-x_1YMRfCeWXh6kCHPDSBdg?dwhat=bar&dwhere=zurich	Sheraton Zürich Hotel	Pfingstweidstrasse 100	 8005 Zürich	044 285 40 00	www.sheratonzurichhotel.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Babos-Restaurant-r7BdEQ1dyS9j2CSp6Hhs_w?dwhat=bar&dwhere=zurich	Babo's Restaurant	Langstrasse 192	 8005 Zürich	044 542 86 81	www.babos-gastro.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Barengasse-Restaurant-renz3HWMUycJbXa9tcHU6w?dwhat=bar&dwhere=zurich	Bärengasse Restaurant	Bahnhofstrasse 25	 8001 Zürich	044 210 08 08	www.restaurant-baerengasse.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8047/Brasserie-Freilager-F4scYrCuAXeGKpeHbJKNGQ?dwhat=bar&dwhere=zurich	Brasserie Freilager	Freilagerstrasse 53 Ecke Flurstrasse 116	 8047 Zürich	044 492 09 09	restaurant-freilager.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Fujiya-of-Japan-vO07-PdHr_vlyRPoUUHeGw?dwhat=bar&dwhere=zurich	Fujiya of Japan	Tessinerplatz 5	 8002 Zürich	044 208 15 55	www.fujiya.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Hermanseck-M8NQIbdqvZQTFGFmQZOjyA?dwhat=bar&dwhere=zurich	Hermanseck	Birmensdorferstrasse 58	 8004 Zürich	044 241 28 20	www.hermanseck.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Hotel/Hotel-Ascot-jB54hHkN-caFZlFIu4iH1g?dwhat=bar&dwhere=zurich	Hotel Ascot	Tessinerplatz 9	 8002 Zürich	044 208 14 14	www.ascot.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Marisqueira-GmbH-_A62B1ItMPzsFYLRJixpGQ?dwhat=bar&dwhere=zurich	Marisqueira GmbH	Hohlstrasse 365	 8004 Zürich	044 492 22 23	www.marisqueira.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8052/Restaurant/Pizzeria-il-Parmigiano-cZPACfnIoET8wMWiJSxXyQ?dwhat=bar&dwhere=zurich	Pizzeria il Parmigiano	Schaffhauserstrasse 469 Seebach	 8052 Zürich	044 300 24 24	www.rebstock-seebach.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Restaurant/Restaurant-Drei-Stuben-WGVzVBNBYia9rdH2LPpfeQ?dwhat=bar&dwhere=zurich	Restaurant Drei Stuben	Beckenhofstrasse 5	 8006 Zürich	044 350 33 00	www.dreistuben.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Restaurant-San-Marco-q2IinPRtSNyqwF1H_p65jA?dwhat=bar&dwhere=zurich	Restaurant San Marco	General-Wille-Strasse 21	 8002 Zürich	044 201 71 66	www.san-marco.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Restaurant/Turbinenhalle-3t8tTlm9zzvM4HvwQUGXwA?dwhat=bar&dwhere=zurich	Turbinenhalle	Badenerstrasse 571	 8048 Zürich	043 311 57 67	www.turbinenhalle.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Caduff-Beat-eD3-f_3TP1cLMRhzGhcuZA?dwhat=bar&dwhere=zurich	Caduff Beat	Kanzleistrasse 126	 8004 Zürich	044 240 22 55	www.wineloft.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Addiction-prevention/Fachstelle-ASN-C2IlRCx0nSaj78RX9gYO2Q?dwhat=bar&dwhere=zurich	Fachstelle ASN	Hotzestrasse 33	 8006 Zürich	044 360 26 00	www.fachstelle-asn.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Fitness-machines/Fitness-Shop-Zurich-VNL6GUVsG0zC787l5W6XeA?dwhat=bar&dwhere=zurich	Fitness Shop Zürich	Zweierstrasse 99-105	 8003 Zürich	044 463 11 63	www.fszh.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Copy-shop/Fotoplast-AG-kZ3mgunDEjL3izChb5bnPQ?dwhat=bar&dwhere=zurich	Fotoplast AG	Dreikönigstrasse 21	 8002 Zürich	044 211 30 70	www.fotoplast.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Dancing-school/Galactic-Dance-GmbH-tX0LpxyITQ7H9ehNDy85cA?dwhat=bar&dwhere=zurich	Galactic Dance GmbH	Albulastrasse 47	 8048 Zürich	044 400 48 28	www.galactic-dance.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Hair-removal/Herzog-Haarentfernung-aRI144Z5BWGPwc_5tqLceA?dwhat=bar&dwhere=zurich	Herzog Haarentfernung	Seefeldstrasse 25 c/o Praxis Dr. med. A. Scherrer	 8008 Zürich	076 561 08 88	www.herzoghaarentfernung.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Beverages/Inter-Comestibles-87-AG-qbMPm5SBnO4G3xjeJoYbWQ?dwhat=bar&dwhere=zurich	Inter Comestibles 87 AG	Binzstrasse 23	 8045 Zürich	044 274 10 10	www.intercomestibles.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Computer-systems-and-accessoires/Letec-Computer-Takeaway-jUiWfI80TRSY14dUadevTg?dwhat=bar&dwhere=zurich	Letec / Computer Takeaway	Weinbergstrasse 71	 8006 Zürich	044 360 39 14	www.dataquest.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/manu-propria-gmbh-fZuAICXptp43xZGxFOqDFw?dwhat=bar&dwhere=zurich	manu propria gmbh	Josefstrasse 50	 8005 Zürich	044 271 04 44	www.manupropria.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/NEO-a3X6RpfpZsuxeLlDG9xukg?dwhat=bar&dwhere=zurich	NEO	Europaallee 47	 8004 Zürich	044 577 67 55	www.neozurich.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/RadDNA-GmbH-PY9NZn26xQNNzmb-rXWcyQ?dwhat=bar&dwhere=zurich	RadDNA GmbH	Josefstrasse 74	 8005 Zürich	044 545 21 31	www.raddna.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8049/Travel-agency/Reiseburo-Layer-7bhBOBNMMfpm3NKFceYDeA?dwhat=bar&dwhere=zurich	Reisebüro Layer	Rütihofstrasse 15	 8049 Zürich	043 960 20 02	www.hlayer.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Hotel/Widder-Hotel-6HiUIZNmJjPTbE8xKQde2A?dwhat=bar&dwhere=zurich	Widder Hotel	Rennweg 7	 8001 Zürich	044 224 25 26	www.widderhotel.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/Dentist/Zentrum-fur-Zahnmedizin-CMuz-VV-Syn7qCrDrwwISA?dwhat=bar&dwhere=zurich	Zentrum für Zahnmedizin	Plattenstrasse 11	 8032 Zürich	044 634 33 11	www.zzm.uzh.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Japanese-cuisine/Takano-City-crORKanLMxXtanFeK8MakA?dwhat=bar&dwhere=zurich	Takano City	Löwenstrasse 29	 8001 Zürich	044 463 22 28	www.takano.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/Binz-Garten-znOShaVmYJJO7ncxGzF3QA?dwhat=bar&dwhere=zurich	Binz Garten	Affolternstrasse 10	 8050 Zürich	044 221 44 44	www.binzgarten.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Paint-and-varnish/Brand-Mira-aAcKXLeVfRsy2XLFtqdtnA?dwhat=bar&dwhere=zurich	Brand Mira	Schaffhauserstrasse 6	 8006 Zürich	044 361 30 61	www.werkstattfuerfarbe.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Brasserie-Bernoulli-laxc9NNrMTtqyfXJjVNxsg?dwhat=bar&dwhere=zurich	Brasserie Bernoulli	Hardturmstrasse 261	 8005 Zürich	044 563 87 37	www.brasseriebernoulli.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Wine-wine-trade/Buhler-Maria-9TDXrj_qgiv2xIRGhhy7Vw?dwhat=bar&dwhere=zurich	Bühler Maria	Fierzgasse 21	 8005 Zürich	044 272 38 30	www.buehlerweine.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Swiss-cuisine/Falcone-GmbH-KmKl8cSiPZsajqveVVkJNQ?dwhat=bar&dwhere=zurich	Falcone GmbH	Birmensdorferstrasse 150	 8003 Zürich	044 463 55 25	www.restaurantfalcone.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Hotel/Four-Points-by-Sheraton-Sihlcity-J5IP4q48MUWyUtR1QAM5cA?dwhat=bar&dwhere=zurich	Four Points by Sheraton Sihlcity	Kalandergasse 1	 8045 Zürich	044 554 00 00	www.fourpointszurich.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8047/Restaurant/Grottino-83-cVkcY-NwfGtw-rxMqkZX_Q?dwhat=bar&dwhere=zurich	Grottino 83	Letzigraben 245	 8047 Zürich	044 491 01 22	www.grottino83.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Real-Estate/GUSTAV-Apartments-Residenz-axWP92xw9yqWengQF4V2mw?dwhat=bar&dwhere=zurich	GUSTAV Apartments & Residenz	Gustav-Gull-Platz 5	 8004 Zürich	044 250 65 00	www.gustav-zuerich.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Guild-house/Haus-zum-Ruden-Oa6kYaTnBRVxTZZ6gNiOQA?dwhat=bar&dwhere=zurich	Haus zum Rüden	Limmatquai 42	 8001 Zürich	044 261 95 66	www.hauszumrueden.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/Hotel/Hotel-Hottingen-hU4LZ-kRDgfR5g-u5DPtdA?dwhat=bar&dwhere=zurich	Hotel Hottingen	Hottingerstrasse 31 /Cäcilienstr.10	 8032 Zürich	044 256 19 19	www.hotelhottingen.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Opera-VlGN9H0uoDeb3djpVhiMzQ?dwhat=bar&dwhere=zurich	Opera	Falkenstrasse 6	 8008 Zürich	044 258 98 98	www.ambassadorhotel.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Restaurant/Restaurant-Rampe-Sud-ktcHVtUaA2IGi5_CYbYAZg?dwhat=bar&dwhere=zurich	Restaurant Rampe Süd	Kalandergasse 1	 8045 Zürich	044 554 00 00	www.fourpointszurich.com	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Restaurant-Rusterei-_tWvnkEBwuHK0Wtk0aOUdw?dwhat=bar&dwhere=zurich	Restaurant Rüsterei	Kalanderplatz 6	 8045 Zürich	044 317 19 19	www.ruesterei.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8037/Restaurant/Sushi-Dining-Ototo-PxOyFloBN4plSplbcz1nAQ?dwhat=bar&dwhere=zurich	Sushi Dining Ototo	Nordstrasse 199	 8037 Zürich	044 350 08 08	www.ototo.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8052/Bicycles/Velopalast-CWTY-OVDZY9YzerEXCIgJQ?dwhat=bar&dwhere=zurich	Velopalast	Schaffhauserstrasse 550	 8052 Zürich	044 463 11 63	www.fszh.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Ice-cream-parlors/Yoomoo-fat-free-frozen-yogurt-Simply-Soup-GmbH-g9d93eKjWdq3KQzcelghDQ?dwhat=bar&dwhere=zurich	Yoomoo fat free frozen yogurt / Simply Soup GmbH	Hallwylstrasse 24	 8004 Zürich	043 497 22 32	www.yoomoo.com/ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Grocery-store/YumiHana-K-Lee-Trading-GmbH-Nu_XQ0qLQsP3cef1Vx1CnA?dwhat=bar&dwhere=zurich	YumiHana/ K. Lee Trading GmbH	Schützengasse 4	 8001 Zürich	044 211 57 57	www.yumihana-zuerich.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Society/Zurcher-Brockenhaus-ZK5Klxt0mzvlFJv1HE_yig?dwhat=bar&dwhere=zurich	Zürcher Brockenhaus	Neugasse 11	 8005 Zürich	055 555 55 55	www.zuercher-brockenhaus.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/Cheyenne-NU-rSFZW6o1iJ20pABoSHA?dwhat=bar&dwhere=zurich	Cheyenne	Querstrasse 3	 8050 Zürich	044 313 90 90		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Juan-Costa-Restaurant-am-Bleicherweg-Old-Inn-ibKa_fcjaiWSFWVVWPdd0Q?dwhat=bar&dwhere=zurich	Juan Costa Restaurant am Bleicherweg Old Inn	Bleicherweg 47	 8002 Zürich	044 286 51 15		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Kings-Cave-nPbjtNWNFkb22yUbtN3vLQ?dwhat=bar&dwhere=zurich	King's Cave	Central Plaza Hotel, Central 1	 8001 Zürich	044 256 55 55		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Orangerie-Restaurant-jVcPxH46m4BqV5bkGKlG-Q?dwhat=bar&dwhere=zurich	Orangerie Restaurant	Engimattstrasse 14	 8002 Zürich	044 284 16 16		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Positano-pJTUt9EzT4xi2vDdiznBww?dwhat=bar&dwhere=zurich	Positano	Stampfenbachstrasse 6	 8001 Zürich	043 243 76 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Restaurant-Ascot-sOWei_D2dMiGxtWaHXHB2A?dwhat=bar&dwhere=zurich	Restaurant Ascot	Tessinerplatz 9	 8002 Zürich	044 208 14 14		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Restaurant-Quaglinos-OLZ8lO6IqlKcIe7Q7aaokg?dwhat=bar&dwhere=zurich	Restaurant Quaglinos	Dufourstrasse 4	 8008 Zürich	043 456 86 76		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Restaurant-Schlachthof-rTfkBD6WNuSASgFfljJoLg?dwhat=bar&dwhere=zurich	Restaurant Schlachthof	Herdernstrasse 59	 8004 Zürich	044 536 68 86		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Turm-ORT2kKZYouzGhJMz0gaZfA?dwhat=bar&dwhere=zurich	Turm	Obere Zäune 19	 8001 Zürich	043 268 39 40		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8037/Shisha/Narjil-Shisha-Club-BQhtkg0UcA3huGcdhWGneA?dwhat=bar&dwhere=zurich	Narjil Shisha Club	Dorfstrasse 1	 8037 Zürich	079 947 74 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Bederhof-cAJ9muHxJGSr4f6aW-Truw?dwhat=bar&dwhere=zurich	Bederhof	Brandschenkestrasse 177	 8002 Zürich	044 285 15 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Beyond-88Vy4IVCmLEidciprOBqEg?dwhat=bar&dwhere=zurich	Beyond	Zollstrasse 20	 8005 Zürich	043 366 83 45		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Candrian-Catering-AG-YbM6KkHfr9ota0g_xiRY7w?dwhat=bar&dwhere=zurich	Candrian Catering AG	Bahnhofplatz 15	 8001 Zürich	044 217 15 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Candrian-Catering-AG-ZUtvtTCiITzJXljr-PlmZA?dwhat=bar&dwhere=zurich	Candrian Catering AG	Bahnhofplatz 15	 8001 Zürich	044 217 15 55		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Candrian-Catering-AG-as-lp27d1vKw_Ed2NmiDYA?dwhat=bar&dwhere=zurich	Candrian Catering AG	Kalanderplatz 1	 8045 Zürich	044 201 24 04		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Restaurant/Casino-Restaurant-bOnLwqK2IMVUHPihMwa8bQ?dwhat=bar&dwhere=zurich	Casino Restaurant	Badenerstrasse 647	 8048 Zürich	044 432 10 60		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/China-Restaurant-Peking-FkQP65P2Kpod2wShSWcqSA?dwhat=bar&dwhere=zurich	China Restaurant Peking	Verena-Conzett-Strasse 21P	 8004 Zürich	044 242 10 52		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Don-Weber-S2l5Pss1Dn5BwbnPRejOTA?dwhat=bar&dwhere=zurich	Don Weber	Heinrichstrasse 213	 8005 Zürich	044 272 05 40		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Eichhornli-MdCuSADh178WWHMeO8rFgw?dwhat=bar&dwhere=zurich	Eichhörnli	Nietengasse 16	 8004 Zürich	044 241 11 28		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8053/Restaurant/Elefantino-Bistro-lWoKDhYQCUEoFQ_Dj6U2NQ?dwhat=bar&dwhere=zurich	Elefantino Bistro	Witikonerstrasse 279	 8053 Zürich	044 381 02 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Fischstube-W1OlvD9kN7TQJN-hSDiGUg?dwhat=bar&dwhere=zurich	Fischstube	Bellerivestrasse 160	 8008 Zürich	044 422 25 20		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8047/Restaurant/Gasthof-zum-weissen-Rossli-Ug-FmYo8q7tx6pXH6aVtiA?dwhat=bar&dwhere=zurich	Gasthof zum weissen Rössli	Albisriederstrasse 379	 8047 Zürich	044 492 23 12		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/GIESSEREI-OERLIKON-E3H1PB6YbgaqGFezZh1QgQ?dwhat=bar&dwhere=zurich	GIESSEREI OERLIKON	Birchstrasse 108	 8050 Zürich	043 205 10 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Greulich-Design-Lifestyle-Hotel-inVxBcV9DyG27LFbLlReLA?dwhat=bar&dwhere=zurich	Greulich Design & Lifestyle Hotel	Herman-Greulich-Strasse 56	 8004 Zürich	043 243 42 43		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Hooters-Zurich-GmbH-BzaNogswQNm3tw6k3LOLKA?dwhat=bar&dwhere=zurich	Hooters Zürich GmbH	Stauffacherstrasse 96	 8004 Zürich	043 243 80 55		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Hotel/Hotel-California-9LZFc9B6AjhNFmc5Ap_Uhw?dwhat=bar&dwhere=zurich	Hotel California	Am Hechtplatz, Schifflände 18	 8001 Zürich	044 262 40 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Hotel-Crowne-Plaza-Zurich-6lQ_wbYGw5h_WoiihqVocw?dwhat=bar&dwhere=zurich	Hotel Crowne Plaza Zurich	Badenerstrasse 420	 8004 Zürich	044 404 44 44		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Hotel/Hotel-ibis-Zurich-City-West-N2WQyzDcw5aco4cInzk5Tw?dwhat=bar&dwhere=zurich	Hotel ibis Zurich City West	Schiffbaustrasse 11	 8005 Zürich	044 276 21 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/HUUSMAA-e8yzOlF9umsHs00I8yjxYw?dwhat=bar&dwhere=zurich	HUUSMAA	Badenerstrasse 138	 8004 Zürich	044 241 11 18		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8057/Restaurant/Jeunesse-Hczwpv0u-apSyhxdXMOkUQ?dwhat=bar&dwhere=zurich	Jeunesse	Wehntalerstrasse 120	 8057 Zürich	044 363 15 45		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Josef-j8B4XwZOUom2bQtzx14NgQ?dwhat=bar&dwhere=zurich	Josef	Gasometerstrasse 24	 8005 Zürich	044 271 65 95		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Kronenhalle-WZz5O_Ve-M1rnBvabb43YA?dwhat=bar&dwhere=zurich	Kronenhalle	Rämistrasse 4	 8001 Zürich	044 262 99 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8002/Restaurant/Le-Jardin-ZnwJMgWfiZhaTsuUJ-zeIA?dwhat=bar&dwhere=zurich	Le Jardin	Stockerstrasse 17	 8002 Zürich	044 286 94 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8049/Restaurant/Maharani-Indian-qxw7pG8_qYL5jV6ZVty88g?dwhat=bar&dwhere=zurich	Maharani Indian	Wartauweg 18	 8049 Zürich	043 300 45 55		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/NEUMARKT-e3F-0T3Xi13i3wbcwaW1gg?dwhat=bar&dwhere=zurich	NEUMARKT	Neumarkt 5	 8001 Zürich	044 252 79 39		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Neumunster-QG5LbiTCdMOOLSX4StLJ7A?dwhat=bar&dwhere=zurich	Neumünster	Hammerstrasse 10	 8008 Zürich	044 381 76 20		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8047/Restaurant/Nikos-Griechische-Taverne-E7mGnVU3wfRoxUrZv48fyg?dwhat=bar&dwhere=zurich	Nikos Griechische Taverne	Albisriederstrasse 181	 8047 Zürich	044 432 33 33		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Piccolo-Giardino-q4f7QMmVHFWhpm94gDXnSA?dwhat=bar&dwhere=zurich	Piccolo Giardino	Schöneggplatz 9	 8004 Zürich	043 317 91 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8051/Restaurant/Polo-foMAbyXtYc0jF1_imaxySQ?dwhat=bar&dwhere=zurich	Polo	Ueberlandstrasse 327	 8051 Zürich	043 299 57 59		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Restaurant/Pumpstation-0bVORdLQ8dU6lyrsptXLhA?dwhat=bar&dwhere=zurich	Pumpstation	Utoquai 10	 8008 Zürich	044 260 96 69		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Real-GmbH-ppMN33o1HTmBd3spY5bgXA?dwhat=bar&dwhere=zurich	Real GmbH	Müllerstrasse 23	 8004 Zürich	044 241 44 41		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/RELAIS-DES-ARTS-muQkKIxNR0CgGS7uzdVA_A?dwhat=bar&dwhere=zurich	RELAIS DES ARTS	Badenerstrasse 420	 8004 Zürich	044 404 44 44		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Restaurant/Restaurant-8048-GQZtd69tqdnhrc0_GYJdpA?dwhat=bar&dwhere=zurich	Restaurant 8048	Lindenplatz 5	 8048 Zürich	044 438 15 15		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Restaurant/restaurant-aux-carres-FJVv8EVny8TF8GpY-rn_Lg?dwhat=bar&dwhere=zurich	restaurant aux carrés	Aux Carrées, Leutschenbachstrasse 71	 8050 Zürich	043 443 94 84		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8048/Restaurant/Restaurant-Bociodromo-da-Cono-DWDz47Y-BStHrtrSq73oXQ?dwhat=bar&dwhere=zurich	Restaurant Bociodromo da Cono	Badenerstrasse 526	 8048 Zürich	044 492 46 41		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8057/Restaurant/Restaurant-Gonzalez-GmbH-i7uALARXAJfEGoE77tEgPA?dwhat=bar&dwhere=zurich	Restaurant Gonzalez GmbH	Schaffhauserstrasse 121	 8057 Zürich	044 361 11 10		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8052/Restaurant/Restaurant-Pizzeria-Fantasia-ekqYaCmQ_di1-wWMdqaj9g?dwhat=bar&dwhere=zurich	Restaurant Pizzeria Fantasia	Seebacherstrasse 167	 8052 Zürich	043 443 95 25		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8044/Restaurant/Restaurant-R21-8XAemi_ipOq-UdiIfJI8Pw?dwhat=bar&dwhere=zurich	Restaurant R21	Sorell Hotel Zürichberg, Orellistrasse 21	 8044 Zürich	044 268 35 65		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-St-Peter-TyTB2P9wFq0FU9UoaQVRnA?dwhat=bar&dwhere=zurich	Restaurant St. Peter	In Gassen 10	 8001 Zürich	044 215 18 40		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Restaurant-Tavernaki-Kalymnos-vk-D-GE4QpNHpjsdsGI3Dw?dwhat=bar&dwhere=zurich	Restaurant Tavernaki Kalymnos	Motorenstrasse 25	 8005 Zürich	043 321 30 50		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Santo-Ristorante-lJRDOPmmFkuq-6C1x5P7Hw?dwhat=bar&dwhere=zurich	Santo Ristorante	Sihlfeldstrasse 45	 8003 Zürich	044 451 14 14		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Sein-tm24eVREW9rF4QJr1WzuyQ?dwhat=bar&dwhere=zurich	Sein	Schützengasse 5	 8001 Zürich	044 221 10 65		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Skebe-Dm2QRk6Vsd3G-DjO-yLEWg?dwhat=bar&dwhere=zurich	Skebe	St. Urbangasse 4	 8001 Zürich	044 260 41 31		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8047/Restaurant/Sternen-yP-bg9Athx197F_gTlGa0g?dwhat=bar&dwhere=zurich	Sternen	Albisriederstrasse 371	 8047 Zürich	044 492 15 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Tasca-Romero-jp1ETZX9SLka055SIZTbpw?dwhat=bar&dwhere=zurich	Tasca Romero	Niederdorfstrasse 37	 8001 Zürich	044 252 52 90		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Widder-Restaurant-O2y_gajTMINoI6R1WpWrgQ?dwhat=bar&dwhere=zurich	Widder Restaurant	Widdergasse 6	 8001 Zürich	044 224 24 12		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Blue-Monkey-Zs2VF1GM8aMxGoiRd8DCSA?dwhat=bar&dwhere=zurich	Blue Monkey	Stüssihofstatt 3	 8001 Zürich	044 261 76 18		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Pharmacy/APOTHEKE-IM-HAUPTBAHNHOF-Z-FLREIanskksa-aMN_NrA?dwhat=bar&dwhere=zurich	APOTHEKE IM HAUPTBAHNHOF	Bahnhofplatz 15	 8001 Zürich	044 225 42 42	www.bahnhof-apotheke.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/apoTHEKE-Gastro-AG-V6PwrJ20W-0PGPxBF2o47A?dwhat=bar&dwhere=zurich	apoTHEKE Gastro AG	Zürichbergstrasse 17	 8032 Zürich	044 260 82 82		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8046/Restaurant/Ayverdi-Murtaza-i-lb42zZxlBQPxdNHCP8EA?dwhat=bar&dwhere=zurich	Ayverdi Murtaza	Wehntalerstrasse 289	 8046 Zürich	043 299 02 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8006/Restaurant/Cafe-Weinberg-e-L_-Xl_45fqGx_BiCaIvQ?dwhat=bar&dwhere=zurich	Café Weinberg	Weinbergstrasse 68	 8006 Zürich	044 362 24 54		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Carrousel-PFPRcOvTcOvP9TS1DI0xnA?dwhat=bar&dwhere=zurich	Carrousel	Zähringerstrasse 33	 8001 Zürich	044 253 62 02		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Golden-Gate-JUqNikZIAcQBgtGOmfFmWA?dwhat=bar&dwhere=zurich	Golden Gate	Schöneggstrasse 15	 8004 Zürich	044 241 43 42		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/GRANDE-Qi5HIuKopjZXKT3csdaGHg?dwhat=bar&dwhere=zurich	GRANDE	Limmatquai 118	 8001 Zürich	044 262 15 16		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Restaurant/Hirschen-hbWD1gUnJbjInDY42gsm6Q?dwhat=bar&dwhere=zurich	Hirschen	Brauerstrasse 80	 8004 Zürich	044 241 43 71		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/Medeiros-Brian-AFxKgzWLY3PYQqGqejMPcw?dwhat=bar&dwhere=zurich	Medeiros Brian	Elisabethenstrasse 28	 8004 Zürich	044 291 11 22		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Nordstern-MMfyhnuox9pg54hiqFsgSA?dwhat=bar&dwhere=zurich	Nordstern	Wallisellenstrasse 333	 8050 Zürich	079 315 94 72		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Hotel/Otter-x9h3SLU30IvAVueHLOd6dw?dwhat=bar&dwhere=zurich	Otter	Oberdorfstrasse 7	 8001 Zürich	044 251 22 07		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Picnic-Gourmondo-AG-stybtXiTpGaB02uo_3cBLg?dwhat=bar&dwhere=zurich	Picnic Gourmondo AG	Bahnhofstrasse 52	 8001 Zürich	044 211 92 82		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Rathaus-Cafe-AAg4H7FNsVG9NDlYaThfGg?dwhat=bar&dwhere=zurich	Rathaus-Café	Limmatquai 61	 8001 Zürich	044 261 07 70		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Tisch-Bank-Stuhl-Co-MDNSw3TxGwFfMe2g3ScToQ?dwhat=bar&dwhere=zurich	Tisch Bank Stuhl & Co.	Fraumünsterstrasse 2 /am Bürkliplatz	 8001 Zürich	044 210 22 55		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Restaurant/Valentin-TsmLIgT-uyfsvQfWbEOSPg?dwhat=bar&dwhere=zurich	Valentin	Gasometerstrasse 36	 8005 Zürich	044 273 62 15		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Hotel/Baur-au-Lac-tXtrArC-DBQW7GTSu_mwXg?dwhat=bar&dwhere=zurich	Baur au Lac	Talstrasse 1	 8001 Zürich	044 220 50 20	www.bauraulac.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Restaurant-Pavillon-1um85w1y9hhMWOSujXYfcw?dwhat=bar&dwhere=zurich	Restaurant Pavillon	Talstrasse 1	 8001 Zürich	044 220 50 22	www.aupavillon.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/Cafe-Chez-Andy-U81T30kuNZRZuUvw84iFUQ?dwhat=bar&dwhere=zurich	Cafe Chez Andy	Hofstrasse 21 Hottingen, nahe Kinderspital	 8032 Zürich	044 558 67 45		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Practice/Christin-Niklaus-xGY109RZ1tCjLo03U9nMJQ?dwhat=bar&dwhere=zurich	Christin Niklaus	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Health-and-sports-massage/Christin-Niklaus-Massagen-pedC413PYuh-dxBiaQ9VjA?dwhat=bar&dwhere=zurich	Christin Niklaus Massagen	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Personal-Training/Christin-Niklaus-Personal-Training-mqqGWH0XJVEJwLXpd2NL5g?dwhat=bar&dwhere=zurich	Christin Niklaus Personal Training	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Foot-care-pedicures/Christin-Niklaus-Podologie-fFdKi0LJFbwYXK_lZvWXdg?dwhat=bar&dwhere=zurich	Christin Niklaus Podologie	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Foot-reflexology-and-massage/podospa-gmbh-g3CXr5KPbG7LTT0l55ETEg?dwhat=bar&dwhere=zurich	podospa gmbh	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Health-and-sports-massage/podospa-gmbh-Massagen-uJgIXcZF4Vy1QZvS5aV7xw?dwhat=bar&dwhere=zurich	podospa gmbh Massagen	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Personal-Training/podospa-gmbh-Personal-Training--dR9p2V74sXpuzsZQCU0vA?dwhat=bar&dwhere=zurich	podospa gmbh Personal Training	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Practice/Sergio-Caduff-ETvORKhawOnTEGne_ABNMA?dwhat=bar&dwhere=zurich	Sergio Caduff	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Health-and-sports-massage/Sergio-Caduff-Massagen-Q-lngJmEPL3NYYJ6R7QbLQ?dwhat=bar&dwhere=zurich	Sergio Caduff Massagen	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Personal-Training/Sergio-Caduff-Personal-Training-AMnE047zgErNUAMFKG4zOg?dwhat=bar&dwhere=zurich	Sergio Caduff Personal Training	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Podology/Sergio-Caduff-Podologie-q0Vg9TSb1RSGi_-DKdtqLA?dwhat=bar&dwhere=zurich	Sergio Caduff Podologie	Schaffhauserstrasse 343	 8050 Zürich	044 311 66 77		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Brasserie-Louis-FUNql0Nw6AD5aHGRbAhucA?dwhat=bar&dwhere=zurich	Brasserie Louis	Niederdorfstrasse 10	 8001 Zürich	044 250 76 80		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Di-Gioia-9BR3SlPqJLoW9R49ev1gnA?dwhat=bar&dwhere=zurich	Di Gioia	Brandschenkestrasse 5	 8001 Zürich	044 201 90 80		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8045/Carpenter/Scar-GmbH-Ek2L31FW_a-orXPvbNWxCw?dwhat=bar&dwhere=zurich	Scar GmbH	Binzstrasse 23	 8045 Zürich	044 202 03 23	www.scar.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Candrian-Catering-AG-kFnK_y5u26cfEwyMuBSvPQ?dwhat=bar&dwhere=zurich	Candrian Catering AG	Sechseläutenplatz 10	 8001 Zürich	044 222 20 30		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Restaurant/Confiserie-Sprungli-AG-HD-X4OmdBfjOFB5WMmdynQ?dwhat=bar&dwhere=zurich	Confiserie Sprüngli AG	Bahnhofstrasse 21	 8001 Zürich	044 224 46 46	www.spruengli.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8050/Glass-and-porcellan-articles/B-N-Service-AG-ba5FXpcMs_txaDAEfouu3Q?dwhat=bar&dwhere=zurich	B & N Service AG	Neunbrunnenstrasse 50	 8050 Zürich	044 262 31 00		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8001/Takeout/Candrian-Catering-AG-9SeAE12gIkye6XdPZ4lUfw?dwhat=bar&dwhere=zurich	Candrian Catering AG	Bahnhofplatz 15	 8001 Zürich	044 217 15 15		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8005/Hawaii-Connection-AG-kb7LQn7MK_nbbQONACDmqQ?dwhat=bar&dwhere=zurich	Hawaii Connection AG	Neugasse 56	 8005 Zürich	044 272 66 08		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/Animal-Homeopathy/Homeopatte-WNYWF7x_BWVKZpiVopHFhQ?dwhat=bar&dwhere=zurich	Homeopatte	Streulistrasse 14	 8032 Zürich	044 777 27 72		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8008/Hotel/Hotel-Seehof-ClBOPDIX8HBNTH20QXDOzg?dwhat=bar&dwhere=zurich	Hotel Seehof	Seehofstrasse 11	 8008 Zürich	044 254 57 57		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8003/Neugass-Kino-AG-q3VeQVQFUVi1NeKRGrX8dA?dwhat=bar&dwhere=zurich	Neugass Kino AG	Badenerstrasse 173	 8003 Zürich	044 455 50 33		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8004/SET-Gastro-GmbH-s9o4HF8G4s66a-f_hK0RAg?dwhat=bar&dwhere=zurich	SET Gastro GmbH	Dienerstrasse 51	 8004 Zürich	044 291 66 66		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8044/Conference-Hotels/Sorell-Hotel-Zurichberg-UnqbX6zXiZInKV8Cf5Ih5w?dwhat=bar&dwhere=zurich	Sorell Hotel Zürichberg	Orellistrasse 21	 8044 Zürich	044 268 35 35		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Zurich/8032/vetpalace-ag--99vFy_N83e6oCHOoFFZLw?dwhat=bar&dwhere=zurich	vetpalace ag	Streulistrasse 14	 8032 Zürich	044 777 27 72		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Kloten/8302/Real-Estate/Bar-Gerber-Immobilien-AG-UWsVAPB0d-eyQvX-wP-guw?dwhat=bar&dwhere=zurich	Bär-Gerber Immobilien AG	Bramenring 1	 8302 Kloten	044 804 87 87		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Unterengstringen/8103/Restaurant/Witschis-Restaurant-Bar-c_svZKBaNyg3teTXVgj3dQ?dwhat=bar&dwhere=zurich	Witschi's Restaurant & Bar	Zürcherstrasse 55	 8103 Unterengstringen	044 750 44 60		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Schlieren/8952/Couple-and-family-therapy/Rinderknecht-Bar-Beatrice-f57Hwz5LV6SER6b79QkMSw?dwhat=bar&dwhere=zurich	Rinderknecht Bär Beatrice	Uitikonerstrasse 9 Praxisgemeinschaft Lilie Zentrum	 8952 Schlieren	044 910 39 38		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Glattbrugg/8152/Restaurant/Movenpick-W1bH18y2zjIzV89Y9f6F4g?dwhat=bar&dwhere=zurich	Mövenpick	Walter Mittelholzerstrasse 8	 8152 Glattbrugg	044 808 89 99		
+zurich	bar	N/A	http://yellow.local.ch/en/d/Geneve/1201/Restaurant/La-Transmontana-Nj3M3BE__TQZ4Es9HZSY4A?dwhat=bar&dwhere=zurich	La Transmontana	rue de Zurich 34	 1201 Genève	022 731 35 36	latransmontana-geneve.ch	
+zurich	bar	N/A	http://yellow.local.ch/en/d/Biel-Bienne/2504/Painting/Stadelmann-Malerei-AG-YiopLulxCbFxyI2ICcAnVA?dwhat=bar&dwhere=zurich	Stadelmann Malerei AG	Zürichstrasse 23	 2504 Biel/Bienne	032 341 17 26	www.stadelmannag.ch	

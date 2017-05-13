@@ -185,7 +185,7 @@ casper.label("PAGINATION_LOOP_START");
                     var h = d.getHours();
                     var m = d.getMinutes();
                     var s = d.getSeconds();
-                    var currentTime = d.getDate() + "." + (d.getMonth() + 1) + ". "
+                    var currentTime = d.getDate() + "." + (d.getMonth() + 1)
                             + (h < 10 ? "0" + h : h) + ":"
                             + (m < 10 ? "0" + m : m) + ":"
                             + (s < 10 ? "0" + s : s);
