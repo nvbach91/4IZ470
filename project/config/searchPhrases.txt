@@ -1,0 +1,11 @@
+bar
+catering
+kebab
+pizza
+pharmacy
+optician
+massage
+garrage
+hotel
+nails
+florist

@@ -1,3 +1,7 @@
+### PROJECT IGNORES
+results/
+
+### LATEX IGNORES
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
