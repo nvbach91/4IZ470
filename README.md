@@ -153,7 +153,7 @@ python auto_ypch_detailed.py Geneve Geneve/_detailed 1 1000 0
 * If the process stops at a file index, you can restart from that file index by specifying the index number as scraped_file_start_index, this number should be logged in log file or the command prompt
 * Keep in mind that this script will overwrite all you existing detailed files from the index you specified
 
-Remarks:
+## Remarks:
 
 * Use modulating VPNs to reduce the chance you get blocked
 * Python is used here to refresh the PhantomJS instances which might crash if ran too long
