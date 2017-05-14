@@ -144,8 +144,8 @@ python x_ypch_details.py \
 ```
 ##### Example:
 ```
-python auto_ypch_detailed.py Zurich Zurich/_detailed 0 11 0
-python auto_ypch_detailed.py Geneve Geneve/_detailed 1 11 0
+python auto_ypch_detailed.py Zurich Zurich/_detailed 0 1000 0
+python auto_ypch_detailed.py Geneve Geneve/_detailed 1 1000 0
 .
 .
 .
