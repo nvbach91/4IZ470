@@ -18,10 +18,15 @@ and so on...
 ``` 
 
 ## Requirements:
-* Download [CasperJS](http://casperjs.org/) and put it in system Path
-* Download [PhantomJS](http://phantomjs.org/) and put it in system Path
+* Download [CasperJS 1.1.2](https://github.com/casperjs/casperjs/archive/1.1.2.zip) and put it in system Path
+  * Check installation with ```casperjs --version```
+* Download [PhantomJS 1.9.8](https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-windows.zip) and put it in system Path
+  * Check installation with ```phantomjs -v```
 * Install [Python 2.7.13](https://www.python.org/downloads/) and put it in system Path
+  * Check installation with ```python --version```
 
+## Available configurations
+You can specify the CSV file delimiter and the new line sequence in the configurations file ```config.js```
 
 ## CasperJS usage:
 ```

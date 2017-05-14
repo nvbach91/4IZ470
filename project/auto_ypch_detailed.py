@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #! /usr/bin/python
 
-
 import os
 import re
 from subprocess import call
@@ -9,7 +8,7 @@ import sys
 from time import sleep
 
 okToGo = True
-timeBetweenRequests = 5 #seconds
+timeBetweenCalls = 5 #seconds
 files = []
 
 if (len(sys.argv) != 6):
@@ -85,7 +84,7 @@ if (okToGo):
                 'ypch_detailed.js',
                 '--scrapedFile="' + scrapedFile + '"',
                 '--outputFolder="' + outputFolder + '"',
-                '--startIndex="' + str(fileLineStartIndex) + '"',
+                '--startIndex=' + str(fileLineStartIndex),
                 '--scrapedFileIndex=' + str(index),
                 '--nScrapedFiles=' + str(nFiles),
             ]

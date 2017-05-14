@@ -9,7 +9,7 @@ from time import sleep
 import urllib
 
 okToGo = True
-timeBetweenRequests = 10  #seconds
+timeBetweenCalls = 10  #seconds
 
 if (len(sys.argv) < 8):
     print "[ERR] Usage: python auto_ypch_list.py <city_names_file> <search_phrases_file> <cityNameStartIndex> <cityNameEndIndex> <searchPhraseStartIndex> <searchPhraseEndIndex> <outputFolder> [paginationIndex]"
@@ -136,6 +136,6 @@ if (okToGo):
                             + "\n\t         City: " + str(cityNameIndex) + "/" + str(cityNamesLength-1) + " (" + str(cityNameStartIndex) + "-" + str(cityNameEndIndex) + ")" + "\t" + cityName \
                             + "\n\tSearch Phrase: " + str(searchPhraseIndex) + "/" + str(searchPhrasesLength-1) + " (" + str(searchPhraseStartIndex) + "-" + str(searchPhraseEndIndex) + ")\t" + searchPhrase
                         print ""
-                        print "[PYTHON] Sleeping " + str(timeBetweenRequests) + " secs before next session"
-                        sleep(timeBetweenRequests)
+                        print "[PYTHON] Sleeping " + str(timeBetweenCalls) + " secs before next session"
+                        sleep(timeBetweenCalls)
 

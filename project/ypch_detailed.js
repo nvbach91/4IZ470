@@ -3,15 +3,18 @@
  * Requirements: casperjs, phantomjs in path
  */
 var fs = require("fs");
-var casper = require('casper').create({
+var config = require("./config");
+var csvDelimiter = config.csvDelimiter;
+var csvNewLine = config.csvNewLine;
+var casper = require("casper").create({
     pageSettings: {
         loadImages: false,
-        loadPlugins: true
+        loadPlugins: false
     }
 });
 
 function extractPage() {
-    return casper.evaluate(function () {
+    return casper.evaluate(function (csvDelimiter, csvNewLine) {
         var result = "";
         var openingHours = "";
         jQuery(".hours .lcl-read-more table tr").each(function () {
@@ -28,14 +31,19 @@ function extractPage() {
         var lon = jQuery("#detail-entry-map").attr("data-markers-longitude");
         var desc = jQuery(".description p").text().replace(/\s+/g, " ").trim();
 
-        result += email + "\t";
-        result += lat + "\t";
-        result += lon + "\t";
-        result += desc + "\t";
-        result += JSON.stringify(images) + "\t";
-        result += openingHours + "\n";
+        result += 
+            email                   + csvDelimiter +
+            lat                     + csvDelimiter +
+            lon                     + csvDelimiter +
+            desc                    + csvDelimiter +
+            JSON.stringify(images)  + csvDelimiter +
+            openingHours            + csvNewLine;
+            
+        jQuery(document.body).remove();
+        jQuery(document.head).remove();
+        
         return result;
-    });
+    }, csvDelimiter, csvNewLine);
 }
 ;
 
@@ -47,7 +55,7 @@ function getUrlsFromScrapedFile(scrapedFile) {
     while (!stream.atEnd()) {
         var line = stream.readLine();
         if (line.length) {
-            urls.push(line.split("\t")[3]);
+            urls.push(line.split(csvDelimiter)[3]);
         }
     }
     return urls;
@@ -60,7 +68,7 @@ var okToGo = true;
 
 if (!casper.cli.has("scrapedFile")) {
     okToGo = false;
-    casper.echo("[ERR] No scrapedFile specified. Use --scrapedFile=<path_to_result_file>");
+    casper.echo('[ERR] No scrapedFile specified. Use --scrapedFile="<path_to_result_file>"');
 }
 
 var startIndex = 0;
@@ -97,7 +105,7 @@ if (casper.cli.has("nScrapedFiles")) {
 }
 
 if (!okToGo) {
-    casper.echo("[ERR] Example: casperjs ypch_details.js --scrapedFile=c000_s000_zurich_hairdresser.csv --outputFolder=./ --startIndex=0");
+    casper.echo('[ERR] Example: casperjs ypch_details.js --scrapedFile="c000_s000_zurich_hairdresser.csv" --outputFolder="./" --startIndex=0');
 }
 
 if (okToGo) {
@@ -107,22 +115,21 @@ if (okToGo) {
     var scrapedFile = casper.cli.get("scrapedFile");
     var resultFile = outputFolder + "detailed_" + scrapedFile.substring(scrapedFile.lastIndexOf("/") + 1, scrapedFile.length);
     var csvHeader =
-            "cityName\t"
-            + "searchPhrase\t"
-            + "resultNum\t"
-            + "ypchsite\t"
-            + "name\t"
-            + "address1\t"
-            + "address2\t"
-            + "phone\t"
-            + "website\t"
-            + "email\t"
-            + "lat\t"
-            + "lon\t"
-            + "desc\t"
-            + "imageslinks\t"
-            + "openinghours"
-            + "\n";
+            "cityName"          + csvDelimiter + 
+            "searchPhrase"    + csvDelimiter + 
+            "resultNum"       + csvDelimiter + 
+            "ypchsite"        + csvDelimiter + 
+            "name"            + csvDelimiter + 
+            "address1"        + csvDelimiter + 
+            "address2"        + csvDelimiter + 
+            "phone"           + csvDelimiter + 
+            "website"         + csvDelimiter + 
+            "email"           + csvDelimiter + 
+            "lat"             + csvDelimiter + 
+            "lon"             + csvDelimiter + 
+            "desc"            + csvDelimiter + 
+            "imageslinks"     + csvDelimiter + 
+            "openinghours"    + csvNewLine;
     if(startIndex === 0) {
         fs.write(resultFile, csvHeader, "w");
     }
@@ -163,7 +170,7 @@ if (okToGo) {
                     //casper.capture(urlIndex + ".png");
                     var processing = "[LOG] " + currentTime 
                             + " Extracting details of url: " + urlIndex + "/" + (detailSitesUrls.length - 1) 
-                            + " in file (" + scrapedFileIndex + "/" + (nScrapedFiles - 1) + "): " 
+                            + " in file index (" + scrapedFileIndex + "/" + (nScrapedFiles - 1) + "): " 
                             + scrapedFile + " " + casper.exists(".logo-img-desktop");
 
                     console.log(processing);
@@ -177,6 +184,10 @@ if (okToGo) {
                 casper.then(function () {
                     // seems like clear() will increase memory usage on this site
                     //casper.clear();
+                    casper.evaluate(function () {
+                        jQuery(document.head).empty();
+                        jQuery(document.body).empty();
+                    });
                 });
 
                 casper.wait(timeBeforeNextPage + Math.floor((Math.random() * randomTimeRangeTo) + randomTimeRangeFrom), function () {

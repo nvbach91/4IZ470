@@ -257,13 +257,19 @@ Pro konfiguraci nástroje CasperJS v~rámci jeho konstruktoru byla nastavena mo�
 
 Implementovaný scraper zaznamenává průběh svého spuštění pomocí standardního textového logování do souboru. Logování je důležité pro detekci chyb a~pro sledování výkonu a~stavu běžícího program. Proces scraping mnohdy zabírá velké množství času v~závislosti na množství vstupu, tj. klíčová slova pro vyhledávání, proto je nezbytně nutné průběžně logovat každý důležitý krok programu.
 
-Program je složen ze dvou částí. První část se zabývá vytvořením instancí CasperJS pro vyhledávání pro jednu kombinaci klíčového slova a~názvu města. Tato část se zavolá příkazem \texttt{casperjs}, viz README. Předmětem druhé části je opakované zavolání první části programu v~iteraci po všech kombinacích klíčových slov a~názvů měst. Tato druhá část je implementována v~programovacím jazyce Python, kde jde pouze o~to načítat vstupních hodnot pro předání do CasperJS. Obě implementované části jsou parametrizovatelné a~parametry se zadávají do příkazového řádku při spuštění scraperu.
+Program je složen ze dvou částí. První část se zabývá vytvořením instancí CasperJS pro vyhledávání pro jednu kombinaci klíčového slova a~názvu města. Tato část se zavolá příkazem \texttt{casperjs}, viz README. Předmětem druhé části je opakované zavolání první části programu v~iteraci po všech kombinacích klíčových slov a~názvů měst. Tato druhá část je implementována v~programovacím jazyce Python, kde se jedná pouze o~načítání vstupních hodnot pro parametrizaci samotnému scraperu CasperJS. Obě implementované části jsou parametrizovatelné a~parametry se zadávají do příkazového řádku při spuštění scraperu.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Dokumentace programu}
 Dokumentace vytvořeného scraperu je napsaná pomocí syntaxe MarkDown a~je k~dispozici jako README na domovské stránce projektu gitového repozitáře. Tato dokumentace popisuje návod pro konfiguraci spuštění scraperu. Přečtení této dokumentace je nezbytně nutné k~pochopení základního principu implementovaného scraperu.
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Závěr}
+Tato práce se zabývala vytvořením webového scraperu pro automatické extrahování dat ze švýcarských zlatých stránek. Předmětem extrakce byly informace o~firmách různých oborů. Výstupem této práce je hotový projekt včetně dokumentace popisující návod pro konfiguraci a spuštění scraperu. K~projektu jsou připojena ukázková data, která jsou rozdělena dle názvů měst ve Švýcarsku.
+
+Hlavním přínosem této práce je pochopení principu Web Page Scrapingu s~použitím headless prohlížeče a~rovněž i~praktické zhotovení funkčního webového scraperu. Výstupní projekt je ukázkou toho, jak by se dalo naprogramovat scraper pomocí nástroje CasperJS. Tato práce může koneckonců sloužit jako podklad pro podobné budoucí projekty zahrnující extrahování dat z~webových stránek.
 
 \newpage
 
